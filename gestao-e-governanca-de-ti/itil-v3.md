@@ -42,7 +42,7 @@ ITIL não é:
 
 A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em estágios pelos quais o serviço passará desde a sua concepção até seu encerramento.
 
-![Est&#xE1;gios do ciclo de vida](../.gitbook/assets/screenshot_2020-02-18-kindle-cloud-reader.png)
+![Vis&#xE3;o geral do modelo](../.gitbook/assets/screenshot_2020-02-18-kindle-cloud-reader.png)
 
 ## Processos e Funções
 
@@ -133,11 +133,11 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>
+</table>## Estratégia de Serviço
 
-## Estratégia de Serviço
+Na estratégia de serviços define-se o plano estratégico para o serviço de TI.
 
-Na estratégia de serviços, busca-se responder algumas perguntas:
+Nesse estágio, busca-se responder as seguintes perguntas:
 
 ### Os  4 Ps  da estratégia
 
@@ -165,7 +165,7 @@ Os tipos de provedores são classificados em 3 tipos:
 
 ## Desenho de Serviço
 
-Em elaboração.
+No desenho de serviço são feitas as especificações técnidas dos serviços de TI.
 
 ## Transição de Serviço
 

@@ -133,7 +133,9 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>## Estratégia de Serviço
+</table>
+
+## Estratégia de Serviço
 
 Na estratégia de serviços, busca-se responder algumas perguntas:
 

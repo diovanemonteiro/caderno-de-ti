@@ -17,6 +17,8 @@ Outras definições de ITIL:
 * É um padrão aberto que se tornou de domínio público
 * É uma abordagem/modelo para gestão de serviços de TI
 * É um modelo de gestão baseado em processos
+* Conjunto de boas práticas de infraestrutura, operação e serviços de TI
+* Padrão de boas práticas para gerenciamento de serviços de TI
 {% endhint %}
 
 {% hint style="danger" %}
@@ -42,7 +44,7 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
 
 ![Est&#xE1;gios do ciclo de vida](../.gitbook/assets/screenshot_2020-02-18-kindle-cloud-reader.png)
 
-### Processos
+### Processos e Funções
 
 <table>
   <thead>

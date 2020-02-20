@@ -139,11 +139,25 @@ Na estratégia de serviços, algumas perguntas devem ser respondidas:
 
 ### Os  4 Ps  da estratégia
 
+* **Perspectiva**:
+* **Posição**:
+* **Plano**:
+* **Padrão**:
+
 ### Valor do serviço
+
+**Utilidade** + **Garantia**
 
 ### Tipos de provedores de serviço
 
+1. **Tipo I**: interno e dedicado
+2. **Tipo II**: interno e compartilhado
+3. **Tipo III:** externo\(terceirizado\)
+
 ### Ativos estratégicos
+
+* Habilidades
+* Recursos
 
 ## Desenho de Serviço
 

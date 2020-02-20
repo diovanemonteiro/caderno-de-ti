@@ -30,21 +30,21 @@ ITIL não é:
 * Não é teoria, é baseado em práticas
 {% endhint %}
 
-### Histórico
+## Histórico
 
-### Conceitos Básicos
+## Conceitos Básicos
 
 > Um **serviço** é um meio de entregar valor aos clientes, facilitando os resultados que os clientes querem alcançar, sem ter que assumir custos e riscos específicos.
 
 > O **Gerenciamento de Serviços** é um conjunto de habilidades da organização para fornecer valor para o cliente em forma de serviços.
 
-### Ciclo de Vida
+## Ciclo de Vida
 
 A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em estágios pelos quais o serviço passará desde a sua concepção até seu encerramento.
 
 ![Est&#xE1;gios do ciclo de vida](../.gitbook/assets/screenshot_2020-02-18-kindle-cloud-reader.png)
 
-### Processos e Funções
+## Processos e Funções
 
 <table>
   <thead>
@@ -133,31 +133,31 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### Estratégia de Serviço
+</table>## Estratégia de Serviço
 
 Na estratégia de serviços, algumas perguntas devem ser respondidas:
 
-#### Os  4 Ps  da estratégia
+### Os  4 Ps  da estratégia
 
-#### Valor do serviço
+### Valor do serviço
 
-#### Tipos de provedores de serviço
+### Tipos de provedores de serviço
 
-#### Ativos estratégicos
+### Ativos estratégicos
 
-### Desenho de Serviço
+## Desenho de Serviço
 
 Em elaboração.
 
-### Transição de Serviço
+## Transição de Serviço
 
 Em elaboração
 
-### Operação de Serviço
+## Operação de Serviço
 
 Em elaboração
 
-### Melhoria Contínua de Serviço
+## Melhoria Contínua de Serviço
 
 Em elaboração
 

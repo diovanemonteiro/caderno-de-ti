@@ -135,7 +135,7 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
   </tbody>
 </table>## Estratégia de Serviço
 
-Na estratégia de serviços, algumas perguntas devem ser respondidas:
+Na estratégia de serviços, busca-se responder algumas perguntas:
 
 ### Os  4 Ps  da estratégia
 
@@ -150,14 +150,16 @@ Na estratégia de serviços, algumas perguntas devem ser respondidas:
 
 ### Tipos de provedores de serviço
 
+Os tipos de provedores são classificados em 3 tipos:
+
 1. **Tipo I**: interno e dedicado
 2. **Tipo II**: interno e compartilhado
 3. **Tipo III:** externo\(terceirizado\)
 
 ### Ativos estratégicos
 
-* Habilidades
-* Recursos
+* **Habilidades**: Pessoas, conhecimento
+* **Recursos**: Pessoas, informação
 
 ## Desenho de Serviço
 
@@ -169,7 +171,9 @@ Em elaboração
 
 ## Operação de Serviço
 
-Em elaboração
+### Processos
+
+### Funções
 
 ## Melhoria Contínua de Serviço
 

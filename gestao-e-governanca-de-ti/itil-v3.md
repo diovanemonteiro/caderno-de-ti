@@ -185,6 +185,11 @@ Os tipos de provedores são classificados em 3 tipos:
 * **Habilidades**: Pessoas, conhecimento
 * **Recursos**: Pessoas, informação
 
+### Estilos Organizacionais
+
+* **Rede**:
+* **Diretivo**:
+
 ### Processos
 
 ## Desenho de Serviço

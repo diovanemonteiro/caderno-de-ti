@@ -26,6 +26,7 @@ ITIL não é:
 
 * Não é uma metodologia, nem norma ISO
 * Não é uma ferramenta que devemos instalar ou implementar
+* Não especifica procedimentos, nem é um passo a passo
 * Não é estático, pode ser adaptado
 * Não é teoria, é baseado em práticas
 {% endhint %}
@@ -36,7 +37,7 @@ ITIL não é:
 
 > Um **serviço** é um meio de entregar valor aos clientes, facilitando os resultados que os clientes querem alcançar, sem ter que assumir custos e riscos específicos.
 
-> O **Gerenciamento de Serviços** é um conjunto de habilidades da organização para fornecer valor para o cliente em forma de serviços.
+> O **Gerenciamento de Serviços** é um conjunto de capacidades organizacionais para fornecer valor para o cliente em forma de serviços.
 
 ## Ciclo de Vida
 
@@ -59,13 +60,13 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
       <td style="text-align:left"><a href="itil-v3.md#estrategia-de-servicos">Estrat&#xE9;gia de Servi&#xE7;o</a>
       </td>
       <td style="text-align:left">
-        <ul>
+        <ol>
           <li>Gerenciamento de Estrat&#xE9;gia de Servi&#xE7;os</li>
           <li>Gerenciamento de Portf&#xF3;lio</li>
           <li>Gerenciamento Financeiro</li>
           <li>Gerenciamento de Demanda</li>
           <li>Gerenciamento de Relacionamento com o Neg&#xF3;cio</li>
-        </ul>
+        </ol>
       </td>
       <td style="text-align:left"></td>
     </tr>
@@ -94,7 +95,7 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
           <li>Planejamento e Suporte &#xE0; Transi&#xE7;&#xE3;o</li>
           <li>Gerenciamento de Mudan&#xE7;as</li>
           <li>Gerenciamento de Configura&#xE7;&#xE3;o e Ativos</li>
-          <li>Gerenciamento de Libera&#xE7;&#xE3;o</li>
+          <li>Gerenciamento de Libera&#xE7;&#xE3;o e Implata&#xE7;&#xE3;o</li>
           <li>Avalia&#xE7;&#xE3;o de Mudan&#xE7;as</li>
           <li>Valida&#xE7;&#xE3;o e Testes de Servi&#xE7;os</li>
           <li>Gerenciamento do Conhecimento</li>
@@ -163,9 +164,11 @@ Os tipos de provedores são classificados em 3 tipos:
 * **Habilidades**: Pessoas, conhecimento
 * **Recursos**: Pessoas, informação
 
+### Processos
+
 ## Desenho de Serviço
 
-No desenho de serviço são feitas as especificações técnidas dos serviços de TI.
+No desenho de serviço são feitas as especificações técnicas dos serviços de TI.
 
 ## Transição de Serviço
 

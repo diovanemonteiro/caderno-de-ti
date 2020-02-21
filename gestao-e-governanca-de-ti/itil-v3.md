@@ -40,7 +40,7 @@ ITIL não é:
 ## Conceitos Básicos
 
 > Um **serviço** é um meio de entregar valor aos clientes, facilitando os resultados que os clientes querem alcançar, sem ter que assumir custos e riscos específicos.
->
+
 > O **Gerenciamento de Serviços** é um conjunto de capacidades organizacionais para fornecer valor para o cliente em forma de serviços.
 
 ## Ciclo de Vida
@@ -139,7 +139,9 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>## Estratégia de Serviço
+</table>
+
+## Estratégia de Serviço
 
 Na estratégia de serviços define-se o plano estratégico para o serviço de TI.
 

@@ -8,7 +8,9 @@ description: >-
 
 ## Introdução
 
-ITIL é um framework público que descreve as melhores práticas para gerenciamento de serviços de tecnologia da informação \(TI\). ITIL é um acrônimo de _Information Technology Infrastructure Library._ Como o próprio nome sugere, a ITIL é uma biblioteca composta por 5 livros, são eles: **Service Strategy**, **Service Design**, **Service Transition**, **Service Operation** e **Continual Service Improvement**.
+ITIL é um framework público que descreve as melhores práticas para gerenciamento de serviços de tecnologia da informação \(TI\). ITIL é um acrônimo de _Information Technology Infrastructure Library_.
+
+Como o próprio nome sugere, a ITIL é uma biblioteca composta por 5 livros, são eles: **Service Strategy**, **Service Design**, **Service Transition**, **Service Operation** e **Continual Service Improvement**.
 
 {% hint style="success" %}
 Outras definições de ITIL:
@@ -31,7 +33,7 @@ ITIL não é:
 * Não é teoria, é baseado em práticas
 {% endhint %}
 
-## Histórico
+### Histórico
 
 ## Conceitos Básicos
 
@@ -135,7 +137,9 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>## Estratégia de Serviço
+</table>
+
+## Estratégia de Serviço
 
 Na estratégia de serviços define-se o plano estratégico para o serviço de TI.
 

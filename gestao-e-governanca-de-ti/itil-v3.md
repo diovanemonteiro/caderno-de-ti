@@ -35,9 +35,9 @@ ITIL não é:
 * Não é teoria, é baseado em práticas
 {% endhint %}
 
-### Histórico
+### Histórico da ITIL
 
-A ITIL foi desenvolvida pelo CCTA _\(Central Computer Telecommunications Agency\)_ no final da década de 80, a partir de uma solicitação do governo britânico, que não esta satisfeito com o nível de qualidade dos serviços a ele prestado.
+A ITIL foi desenvolvida pelo CCTA _\(Central Computer Telecommunications Agency\)_ no final da década de 80, a partir de uma solicitação do governo britânico, que não estava satisfeito com o nível de qualidade dos serviços a ele prestado.
 
 Em abril de 2001, o CCTA foi incorporado ao OGC _\(Office of Government Commerce\)_, que na época era o órgão responsável evolução da ITIL.
 
@@ -53,13 +53,17 @@ Em julho de 2011 foi publicada uma atualização da ITIL V3, que ficou conhecida
 
 ## Ciclo de Vida
 
+Um serviço nasce, se desenvole, entre em operação e é descontinuado, se for o caso. É necessário gerenciar o serviço durante todo o seu ciclo de vida, desde a sua concepção até sua retirada de operação.
+
 A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em estágios pelos quais o serviço passará desde a sua concepção até seu encerramento.
+
+O ciclo de vida de serviços contém 5 elementos, conforme mostra a figura abaixo.
 
 ![Vis&#xE3;o geral do modelo](../.gitbook/assets/screenshot_2020-02-18-kindle-cloud-reader.png)
 
 ## Processos e Funções
 
-Os processos da ITIL encontram-se distribuídos entre os 5 estágios do ciclo de vida, conforme a tabela abaixo:
+Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios do ciclo de vida, conforme vemos na tabela a seguir:
 
 <table>
   <thead>

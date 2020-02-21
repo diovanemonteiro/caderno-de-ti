@@ -12,12 +12,14 @@ ITIL é um framework público que descreve as melhores práticas para gerenciame
 
 Como o próprio nome sugere, a ITIL é uma biblioteca composta por 5 livros, são eles: **Service Strategy**, **Service Design**, **Service Transition**, **Service Operation** e **Continual Service Improvement**.
 
+A **ITIL** está organizada em 26 processos e 4 funções distribuídos em 5 estágios de ciclo de vida.
+
 {% hint style="success" %}
 Outras definições de ITIL:
 
 * É uma biblioteca composta de 5 livros
 * É um padrão aberto que se tornou de domínio público
-* É uma abordagem/modelo para gestão de serviços de TI
+* É um modelo/abordagem para gestão de serviços de TI
 * É um modelo de gestão baseado em processos
 * Conjunto de boas práticas de infraestrutura, operação e serviços de TI
 * Padrão de boas práticas para gerenciamento de serviços de TI
@@ -38,7 +40,7 @@ ITIL não é:
 ## Conceitos Básicos
 
 > Um **serviço** é um meio de entregar valor aos clientes, facilitando os resultados que os clientes querem alcançar, sem ter que assumir custos e riscos específicos.
-
+>
 > O **Gerenciamento de Serviços** é um conjunto de capacidades organizacionais para fornecer valor para o cliente em forma de serviços.
 
 ## Ciclo de Vida
@@ -137,9 +139,7 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>
-
-## Estratégia de Serviço
+</table>## Estratégia de Serviço
 
 Na estratégia de serviços define-se o plano estratégico para o serviço de TI.
 

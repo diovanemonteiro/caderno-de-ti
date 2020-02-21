@@ -53,7 +53,7 @@ Em julho de 2011 foi publicada uma atualização da ITIL V3, que ficou conhecida
 
 ## Ciclo de Vida
 
-Um serviço nasce, se desenvole, entre em operação e é descontinuado, se for o caso. É necessário gerenciar o serviço durante todo o seu ciclo de vida, desde a sua concepção até sua retirada de operação.
+Um serviço nasce, se desenvole, entre em operação e pode ser descontinuado. É necessário gerenciar o serviço durante todo o seu ciclo de vida, desde a sua concepção até sua retirada de operação.
 
 A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em estágios pelos quais o serviço passará desde a sua concepção até seu encerramento.
 

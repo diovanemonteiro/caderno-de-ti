@@ -37,6 +37,14 @@ ITIL não é:
 
 ### Histórico
 
+A ITIL foi desenvolvida pelo CCTA _\(Central Computer Telecommunications Agency\)_ no final da década de 80, a partir de uma solicitação do governo britânico, que não esta satisfeito com o nível de qualidade dos serviços a ele prestado.
+
+Em abril de 2001, o CCTA foi incorporado ao OGC _\(Office of Government Commerce\)_, que na época era o órgão responsável evolução da ITIL.
+
+A versão 3 da ITIL foi lançada em maio de 2007 e representou uma grande evolução em relação à versão anterior, por organizar os processos de gerenciamento de serviços em um estrutura de ciclo de vida de serviço.
+
+Em julho de 2011 foi publicada uma atualização da ITIL V3, que ficou conhecida como ITIL v3 2011.
+
 ## Conceitos Básicos
 
 > Um **serviço** é um meio de entregar valor aos clientes, facilitando os resultados que os clientes querem alcançar, sem ter que assumir custos e riscos específicos.
@@ -50,6 +58,8 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
 ![Vis&#xE3;o geral do modelo](../.gitbook/assets/screenshot_2020-02-18-kindle-cloud-reader.png)
 
 ## Processos e Funções
+
+Os processos da ITIL encontram-se distribuídos entre os 5 estágios do ciclo de vida, conforme a tabela abaixo:
 
 <table>
   <thead>

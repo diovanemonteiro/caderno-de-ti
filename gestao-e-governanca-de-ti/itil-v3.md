@@ -74,7 +74,7 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
       <td style="text-align:left"><a href="itil-v3.md#desenho-de-servico">Desenho de Servi&#xE7;o</a>
       </td>
       <td style="text-align:left">
-        <ul>
+        <ol>
           <li>Coordena&#xE7;&#xE3;o do Desenho</li>
           <li>Gerenciamento de Cat&#xE1;logo de Servi&#xE7;o</li>
           <li>Gerenciamento de N&#xED;vel de Servi&#xE7;o</li>
@@ -83,7 +83,7 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
           <li>Gerenciamento de Continuidade</li>
           <li>Gerenciamento de Seguran&#xE7;a da Informa&#xE7;&#xE3;o</li>
           <li>Gerenciamento de Fornecedores</li>
-        </ul>
+        </ol>
       </td>
       <td style="text-align:left"></td>
     </tr>
@@ -91,7 +91,7 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
       <td style="text-align:left"><a href="itil-v3.md#transicao-de-servico">Transi&#xE7;&#xE3;o de Servi&#xE7;o</a>
       </td>
       <td style="text-align:left">
-        <ul>
+        <ol>
           <li>Planejamento e Suporte &#xE0; Transi&#xE7;&#xE3;o</li>
           <li>Gerenciamento de Mudan&#xE7;as</li>
           <li>Gerenciamento de Configura&#xE7;&#xE3;o e Ativos</li>
@@ -99,7 +99,7 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
           <li>Avalia&#xE7;&#xE3;o de Mudan&#xE7;as</li>
           <li>Valida&#xE7;&#xE3;o e Testes de Servi&#xE7;os</li>
           <li>Gerenciamento do Conhecimento</li>
-        </ul>
+        </ol>
       </td>
       <td style="text-align:left"></td>
     </tr>
@@ -107,29 +107,30 @@ A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em est
       <td style="text-align:left"><a href="itil-v3.md#operacao-de-servico">Opera&#xE7;&#xE3;o de Servi&#xE7;o</a>
       </td>
       <td style="text-align:left">
-        <ul>
+        <ol>
           <li>Gerenciamento de Eventos</li>
           <li>Gerenciamento de Incidentes</li>
           <li>Gerenciamento de Problemas</li>
           <li>Cumprimento de Requisi&#xE7;&#xF5;es</li>
           <li>Gerenciamento de Acesso</li>
-        </ul>
+        </ol>
       </td>
       <td style="text-align:left">
-        <ul>
+        <ol>
           <li>Central de Servi&#xE7;os</li>
           <li>Gerenciamento T&#xE9;cnico</li>
           <li>Gerenciamento de Aplica&#xE7;&#xF5;es</li>
           <li>Gerenciamento de Opera&#xE7;&#xF5;es de TI</li>
-        </ul>
+        </ol>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Melhoria Cont&#xED;nua de Servi&#xE7;o</td>
+      <td style="text-align:left"><a href="itil-v3.md#melhoria-continua-de-servico">Melhoria Cont&#xED;nua de Servi&#xE7;o</a>
+      </td>
       <td style="text-align:left">
-        <ul>
+        <ol>
           <li>Melhoria em 7 passos</li>
-        </ul>
+        </ol>
       </td>
       <td style="text-align:left"></td>
     </tr>

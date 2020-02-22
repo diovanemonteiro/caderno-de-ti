@@ -228,6 +228,12 @@ Resumo das habilidades e recursos na tabela a seguir:
 | Organização | Infraestrutura |
 | Gerenciamento | Capital Financeiro |
 
+{% hint style="success" %}
+🧠**Mnemônico!**
+
+**Pessoas** detém conhecimento...
+{% endhint %}
+
 ### Estilos Organizacionais
 
 * **Rede:**
@@ -283,6 +289,12 @@ Este é o estágio que se preocupa em entregar aos clientes e usuários os níve
 #### Gerenciamento de Acesso
 
 ### Funções
+
+#### Central de Serviços
+
+#### Gerenciamento Técnico
+
+#### Gerenciamento de Aplicações
 
 ## Melhoria Contínua de Serviço
 

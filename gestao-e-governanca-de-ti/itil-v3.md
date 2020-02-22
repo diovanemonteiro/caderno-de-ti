@@ -47,9 +47,13 @@ A versão 3 da ITIL foi lançada em maio de 2007 e representou uma grande evolu�
 
 Em julho de 2011 foi publicada uma atualização da ITIL V3, que ficou conhecida como ITIL v3 2011.
 
+> Antes da popularização da Tecnologia da Informação, não havia necessidade realizar o gerenciamento dos serviços de TI, já que eram esparsos e ocasionais. A partir dos anos 80, os serviços de TI passaram a ocupar um espaço mais relevante nas instituições, fazendo-se necessário um controle mais organizado dos serviços. Neste momento, o governo britânico iniciou a publicação de vários livros, contendo as práticas que ele julgava mais importantes para o gerenciamento dos serviços de TI. Esta coletânea de 40 livros foi denominada **IT Infrastructure Library \(ITIL\)**.
+
 ## Conceitos Básicos
 
 ### Serviços
+
+De acordo com a ITIL, serviço é um meio de fornecer valor a clientes, facilitando a obtenção de resultados que eles desejam, sem que tenham que arcar com a propriedade de determinados custos e riscos.
 
 > Um **serviço** é um meio de entregar valor aos clientes, facilitando os resultados que os clientes querem alcançar, sem ter que assumir custos e riscos específicos.
 
@@ -231,7 +235,7 @@ Resumo das habilidades e recursos na tabela a seguir:
 {% hint style="success" %}
 🧠**Mnemônico!**
 
-**Pessoas** detém conhecimento...
+**Pessoas** detém o conhecimento...
 {% endhint %}
 
 ### Estilos Organizacionais
@@ -261,6 +265,24 @@ Os processos integrantes da estratégia de serviço são:
 Este estágio do ciclo de vida tem como foco o desenho e a criação de serviços de TI, cujo propósito será realizar a estratégia concebida no estágio de estratégia de serviço.
 
 No desenho de serviço são feitas as especificações técnicas dos serviços de TI.
+
+### Processos
+
+#### Coordenação do Desenho
+
+#### Gerenciamento de Catálogo de Serviço
+
+#### Gerenciamento de Nível de Serviço
+
+#### Gerenciamento de Capacidade
+
+#### Gerenciamento de Disponibilidade
+
+#### Gerenciamento de Continuidade
+
+#### Gerenciamento da Segurança da Informação
+
+#### Gerenciamento de Fornecedores
 
 ## Transição de Serviço
 

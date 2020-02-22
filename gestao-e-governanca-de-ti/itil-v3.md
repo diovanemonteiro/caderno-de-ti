@@ -252,15 +252,35 @@ Os processos integrantes da estratégia de serviço são:
 
 ## Desenho de Serviço
 
+Este estágio do ciclo de vida tem como foco o desenho e a criação de serviços de TI, cujo propósito será realizar a estratégia concebida no estágio de estratégia de serviço.
+
 No desenho de serviço são feitas as especificações técnicas dos serviços de TI.
 
 ## Transição de Serviço
 
-Em elaboração
+O estágio de transição do serviço tem como principal objetivo colocar no ambiente de produção, em plena operação, um serviço que acabou de sair do estágio de desenho do serviço.
 
 ## Operação de Serviço
 
+Este é o estágio que se preocupa em entregar aos clientes e usuários os níveis de serviço acordados e gerenciar as aplicações, tecnologia e infraestrutura que suportam a entrega do serviço. É nele que os serviços efetivamente entregam **valor** ao cliente.
+
+{% hint style="info" %}
+\*\*\*\*✏**TOME NOTA!** 
+
+É o estágio responsável pelas atividades do dia a dia, orientando sobre como garantir a entrega e o suporte a serviços de forma eficiente e eficaz, detalhando os processos de gerenciamento de **eventos**, **incidentes**, **problemas**, **acesso** e **execução de requisições**.
+{% endhint %}
+
 ### Processos
+
+#### Gerenciamento de Eventos
+
+#### Gerenciamento de Incidentes
+
+#### Gerenciamento de Problemas
+
+#### Cumprimento de Requisição
+
+#### Gerenciamento de Acesso
 
 ### Funções
 

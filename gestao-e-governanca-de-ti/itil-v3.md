@@ -99,11 +99,16 @@ Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios
       </td>
       <td style="text-align:left">
         <ol>
-          <li>Gerenciamento de Estrat&#xE9;gia de Servi&#xE7;os</li>
-          <li>Gerenciamento de Portf&#xF3;lio</li>
-          <li>Gerenciamento Financeiro</li>
-          <li>Gerenciamento de Demanda</li>
-          <li>Gerenciamento de Relacionamento com o Neg&#xF3;cio</li>
+          <li><a href="itil-v3.md#gerenciamento-de-estrategia-de-servico">Gerenciamento da Estrat&#xE9;gia de Servi&#xE7;os</a>
+          </li>
+          <li><a href="itil-v3.md#gerenciamento-de-portifolio">Gerenciamento de Portf&#xF3;lio</a>
+          </li>
+          <li><a href="itil-v3.md#gerenciamento-financeiro">Gerenciamento Financeiro</a>
+          </li>
+          <li><a href="itil-v3.md#gerenciamento-de-demanda">Gerenciamento de Demanda</a>
+          </li>
+          <li><a href="itil-v3.md#gerenciamento-de-relacionamento-com-o-negocio">Gerenciamento de Relacionamento com o Neg&#xF3;cio</a>
+          </li>
         </ol>
       </td>
       <td style="text-align:left"></td>
@@ -175,7 +180,7 @@ Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios
   </tbody>
 </table>## Estratégia de Serviço
 
-Na estratégia de serviços define-se o plano estratégico para o serviço de TI.
+Na estratégia de serviços se produz e mantém planos estratégicos.
 
 Nesse estágio, busca-se responder algumas perguntas:
 
@@ -235,7 +240,7 @@ Resumo das habilidades e recursos na tabela a seguir:
 
 Os processos integrantes da estratégia de serviço são:
 
-#### Gerenciamento de Estratégia de Serviço
+#### Gerenciamento da Estratégia de Serviço
 
 #### Gerenciamento de Portifólio
 

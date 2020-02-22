@@ -153,9 +153,7 @@ Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>
-
-## Estratégia de Serviço
+</table>## Estratégia de Serviço
 
 Na estratégia de serviços define-se o plano estratégico para o serviço de TI.
 

@@ -83,7 +83,7 @@ São características básicas dos 5 estágios do ciclo de vida do serviço:
 
 ## Processos e Funções
 
-Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios do ciclo de vida, conforme vemos na tabela a seguir:
+Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios do ciclo de vida, conforme tabela a seguir:
 
 <table>
   <thead>
@@ -181,14 +181,15 @@ Nesse estágio, busca-se responder algumas perguntas:
 
 * Quais serviços oferecer e para quem?
 * Como se diferenciar dos competidores?
-* Como gerenciar os aspectos financeiros do serviço?
+* Como criar valor para os interessados no serviço?
+* Como alocar recursos de forma eficiente?
 
 ### Os  4 Ps  da estratégia
 
-* **Perspectiva**:
-* **Posição**:
-* **Plano**:
-* **Padrão**:
+* **Perspectiva**: define a visão da organização, missão, valores e convicções.
+* **Posição**: a imagem que a organização pretende passar para os clientes, ou seja, como o mercado enxerga a organização.
+* **Plano**: traduz a estratégia para ações.
+* **Padrão**: descreve as características essenciais dos serviços.
 
 ### Valor do serviço
 
@@ -207,10 +208,20 @@ Os tipos de provedores são classificados em 3 tipos:
 
 ### Ativos estratégicos
 
-Recursos e habilidades são considerados ativos de serviço de uma organização e são a base para a criação de valor para o serviço.
+**Recursos** e **habilidades** são considerados ativos de serviço de uma organização e são a base para a criação de valor para o serviço.
 
-* **Habilidades**: Pessoas, conhecimento
-* **Recursos**: Pessoas, informação
+* **Habilidades**: aptidão da organização para executar atividades. São ativos intangíveis.
+* **Recursos**: Infraestrutura, pessoas, dinheiro ou qualquer outra coisa que possa ajudar na entrega de serviços de TI.
+
+Resumo das habilidades e recursos na tabela a seguir:
+
+| **Habilidades** | **Recursos** |
+| :--- | :--- |
+| **Pessoas\(intelectual\)** | **Pessoas** |
+| Conhecimento | Informações |
+| Processos | Aplicações |
+| Organização | Infraestrutura |
+| Gerenciamento | Capital Financeiro |
 
 ### Estilos Organizacionais
 

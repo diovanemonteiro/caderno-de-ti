@@ -1,26 +1,28 @@
 ---
 description: >-
-  Neste documento descreveremos os conceitos por trás da ITIL bem como seus
-  processos
+  Neste documento falaremos sobre os conceitos e processos da ITIL para
+  gerenciamento de serviços de TI
 ---
 
 # ITIL V3
 
 ## Introdução
 
+Antigamente a área de TI era apenas um setor de apoio para as organizações alcançar seus objetivos de negócio.
+
 ITIL é um framework público que descreve as melhores práticas para gerenciamento de serviços de tecnologia da informação \(TI\). ITIL é um acrônimo de _Information Technology Infrastructure Library_.
 
-Como o próprio nome sugere, a ITIL é uma biblioteca composta por 5 livros, são eles: **Service Strategy**, **Service Design**, **Service Transition**, **Service Operation** e **Continual Service Improvement**.
+Como o próprio nome sugere, a ITIL é uma biblioteca composta por 5 livros, que são eles: **Service Strategy**, **Service Design**, **Service Transition**, **Service Operation** e **Continual Service Improvement**.
 
-A **ITIL** está organizada em 26 processos e 4 funções distribuídos em 5 estágios de ciclo de vida.
+A **ITIL** está organizada em 26 processos e 4 funções distribuídos em 5 estágios do ciclo de vida.
 
 {% hint style="success" %}
 Outras definições de ITIL:
 
-* É uma biblioteca composta de 5 livros
+* É uma biblioteca composta por um conjunto de 5 livros
 * É um padrão aberto que se tornou de domínio público
 * É um modelo/abordagem para gestão de serviços de TI
-* É um modelo de gestão baseado em processos
+* É um modelo de gestão orientada à processos
 * Conjunto de boas práticas de infraestrutura, operação e serviços de TI
 * Padrão de boas práticas para gerenciamento de serviços de TI
 {% endhint %}
@@ -31,8 +33,8 @@ ITIL não é:
 * Não é uma metodologia, nem norma ISO
 * Não é uma ferramenta que devemos instalar ou implementar
 * Não especifica procedimentos, nem é um passo a passo
-* Não é estático, pode ser adaptado
-* Não é teoria, é baseado em práticas
+* Não é estático, pode ser adaptado para cada organização
+* Não é teoria, mas sim baseado em práticas
 {% endhint %}
 
 ### Histórico da ITIL
@@ -47,19 +49,37 @@ Em julho de 2011 foi publicada uma atualização da ITIL V3, que ficou conhecida
 
 ## Conceitos Básicos
 
+### Serviços
+
 > Um **serviço** é um meio de entregar valor aos clientes, facilitando os resultados que os clientes querem alcançar, sem ter que assumir custos e riscos específicos.
 
-> O **Gerenciamento de Serviços** é um conjunto de capacidades organizacionais para fornecer valor para o cliente em forma de serviços.
+### Gerenciamento de Serviços
 
-## Ciclo de Vida
+O ****Gerenciamento de Serviços é um conjunto de capacidades organizacionais \(**processos, métodos de trabalho, funções, papéis e atividades**\) para fornecer valor para o cliente em forma de serviços.
 
-Um serviço nasce, se desenvole, entre em operação e pode ser descontinuado. É necessário gerenciar o serviço durante todo o seu ciclo de vida, desde a sua concepção até sua retirada de operação.
+{% hint style="info" %}
+**Definição**: Gerenciamento de Serviços
+
+O ****Gerenciamento de Serviços é um conjunto de **capacidades organizacionais** para fornecer valor para o cliente em forma de serviços.
+{% endhint %}
+
+## Ciclo de Vida do Serviço 
+
+Um serviço nasce, se desenvolve, entra em operação e pode ser descontinuado. É necessário gerenciar o serviço durante todo o seu ciclo de vida, desde a sua concepção até sua retirada de operação.
 
 A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em estágios pelos quais o serviço passará desde a sua concepção até seu encerramento.
 
-O ciclo de vida de serviços contém 5 elementos, conforme mostra a figura abaixo.
+O ciclo de vida de serviços contém 5 estágios, conforme mostra a figura abaixo.
 
 ![Vis&#xE3;o geral do modelo](../.gitbook/assets/screenshot_2020-02-18-kindle-cloud-reader.png)
+
+São características básicas dos 5 estágios do ciclo de vida do serviço:
+
+* **Estratégia de Serviços:** prevê e conceitua um conjunto de serviços que ajuda o negócio alcançar seus objetivos. São tomadas as decisões estratégicas em relação aos serviços que serão desenvolvidos.
+* **Desenho de Serviços:** desenha ou projeta os serviços tendo em vista os objetivos de **utilidade** e **garantia**. Basicamente projeta o que a estratégia decidiu e descreve as especificações técnicas para transição de serviço.
+* **Transição de Serviço:** move os serviços para o ambiente de produção. Os serviços são desenvolvidos, testados e liberados de forma controlada.
+* **Operação de Serviço:** gerencia os serviços em produção para assegurar que sejam alcançados seus objetivos de utilidade e garantia. São os processos do dia a dia que mantém os serviços em funcionamento.
+* **Melhoria Contínua de Serviço:** avalia os serviços e identifica formas de melhorar sua utilidade e garantia no suporte aos objetivos de negócio.
 
 ## Processos e Funções
 
@@ -157,7 +177,11 @@ Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios
 
 Na estratégia de serviços define-se o plano estratégico para o serviço de TI.
 
-Nesse estágio, busca-se responder as seguintes perguntas:
+Nesse estágio, busca-se responder algumas perguntas:
+
+* Quais serviços oferecer e para quem?
+* Como se diferenciar dos competidores?
+* Como gerenciar os aspectos financeiros do serviço?
 
 ### Os  4 Ps  da estratégia
 
@@ -168,7 +192,10 @@ Nesse estágio, busca-se responder as seguintes perguntas:
 
 ### Valor do serviço
 
-**Utilidade** + **Garantia**
+É o grau em que as expectativas do cliente são atingidas, e pode ser definido em função de duas variáveis:
+
+* **Utilidade:** capacidade de atender às necessidades dos clientes e de minimizar as suas restrições.
+* **Garantia:** está relacionada ao atendimento dos requisitos de disponibilidade, capacidade, continuidade e segurança estabelecido pelos clientes.
 
 ### Tipos de provedores de serviço
 
@@ -180,15 +207,32 @@ Os tipos de provedores são classificados em 3 tipos:
 
 ### Ativos estratégicos
 
+Recursos e habilidades são considerados ativos de serviço de uma organização e são a base para a criação de valor para o serviço.
+
 * **Habilidades**: Pessoas, conhecimento
 * **Recursos**: Pessoas, informação
 
 ### Estilos Organizacionais
 
-* **Rede**:
-* **Diretivo**:
+* **Rede:**
+* **Diretivo:**
+* **Delegação:**
+* **Coordenação:**
+* **Colaboração:**
 
 ### Processos
+
+Os processos integrantes da estratégia de serviço são:
+
+#### Gerenciamento de Estratégia de Serviço
+
+#### Gerenciamento de Portifólio
+
+#### Gerenciamento de Demanda
+
+#### Gerenciamento Financeiro
+
+#### Gerenciamento de Relacionamento com o Negócio
 
 ## Desenho de Serviço
 

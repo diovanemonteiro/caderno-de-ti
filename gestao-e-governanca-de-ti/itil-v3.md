@@ -248,7 +248,7 @@ Os processos integrantes da estratégia de serviço são:
 
 #### Gerenciamento da Estratégia de Serviço
 
-#### Gerenciamento de Portifólio
+#### Gerenciamento de Portfólio
 
 #### Gerenciamento de Demanda
 

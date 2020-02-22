@@ -17,7 +17,7 @@ Como o próprio nome sugere, a ITIL é uma biblioteca composta por 5 livros, que
 A **ITIL** está organizada em 26 processos e 4 funções distribuídos em 5 estágios do ciclo de vida.
 
 {% hint style="success" %}
-Outras definições de ITIL:
+✅ Outras definições de ITIL:
 
 * É uma biblioteca composta por um conjunto de 5 livros
 * É um padrão aberto que se tornou de domínio público
@@ -28,7 +28,7 @@ Outras definições de ITIL:
 {% endhint %}
 
 {% hint style="danger" %}
-ITIL não é:
+❌ ITIL não é:
 
 * Não é uma metodologia, nem norma ISO
 * Não é uma ferramenta que devemos instalar ou implementar

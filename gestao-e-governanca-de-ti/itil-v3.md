@@ -278,6 +278,15 @@ No desenho de serviço são feitas as especificações técnicas dos serviços d
 
 #### Gerenciamento de Disponibilidade
 
+{% hint style="info" %}
+✏**Nota:** Definições importantes
+
+* **Disponibilidade:** refere-se a habilidade de um serviço, componente ou item de configuração desempenhar suas funções acordadas quando necessário.
+* **Confiabilidade:** tempo que um serviço ou componente pode funcionar **sem interrupção** em conformidade com o acordo.
+* **Sustentabilidade:** rapidez que um serviço, componente ou item de configuração consegue ser **restaurado** para seu estado normal após uma falha.
+* **Serviceability:** é a habilidade de um fornecedor em atender os termos de seu contrato.
+{% endhint %}
+
 #### Gerenciamento de Continuidade
 
 #### Gerenciamento da Segurança da Informação

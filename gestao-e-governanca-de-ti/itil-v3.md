@@ -266,6 +266,15 @@ Este estágio do ciclo de vida tem como foco o desenho e a criação de serviço
 
 No desenho de serviço são feitas as especificações técnicas dos serviços de TI.
 
+### Os 5 aspectos do desenho do serviço
+
+### 4 Ps do desenho
+
+* Pessoas
+* Processos
+* Produtos
+* Parceiros
+
 ### Processos
 
 #### Coordenação do Desenho
@@ -274,14 +283,24 @@ No desenho de serviço são feitas as especificações técnicas dos serviços d
 
 #### Gerenciamento de Nível de Serviço
 
+> SLA\(Service level agreement\) ou ANS\(Acordo de nível de serviço\) é um acordo **entre o provedor de serviços de TI e um cliente**. O acordo de nível de serviço descreve o serviço de TI, documenta metas de nível de serviço e especifica as responsabilidades do provedor de serviço de TI e do cliente. Um único acordo pode cobrir múltiplos serviços de TI ou múltiplos clientes.
+
+> ANO\(Acordo de nível operacional\) é um acordo entre um **provedor de serviços de TI e outra parta da mesma organização**. Ele dá apoio à entrega, pelo provedor de serviço de TI, de serviços de TI a clientes e define os produtos ou serviços a serem fornecidos e as responsabilidades de ambas as partes.
+
+{% hint style="info" %}
+\*\*\*\*💡**Dica:** veja que a maior diferença entre os dois é o cliente em si. Enquanto no ANS o cliente é externo ao provedor de serviço, no ANO esse cliente é da mesma organização.
+{% endhint %}
+
 #### Gerenciamento de Capacidade
 
 #### Gerenciamento de Disponibilidade
 
+O processo de gerenciamento da disponibilidade visa assegurar que os serviços de TI sejam projetados para atender e preservar os níveis de disponibilidade e confiabilidade requeridos pelo negócio.
+
 {% hint style="info" %}
 ✏**Nota:** Definições importantes
 
-* **Disponibilidade:** refere-se a habilidade de um serviço, componente ou item de configuração desempenhar suas funções acordadas quando necessário.
+* **Disponibilidade:** refere-se a habilidade de um serviço, componente ou item de configuração **desempenhar suas funções acordadas quando necessário**.
 * **Confiabilidade:** tempo que um serviço ou componente pode funcionar **sem interrupção** em conformidade com o acordo.
 * **Sustentabilidade:** rapidez que um serviço, componente ou item de configuração consegue ser **restaurado** para seu estado normal após uma falha.
 * **Serviceability:** é a habilidade de um fornecedor em atender os termos de seu contrato.
@@ -330,4 +349,15 @@ Este é o estágio que se preocupa em entregar aos clientes e usuários os níve
 ## Melhoria Contínua de Serviço
 
 Em elaboração
+
+## Provas recentes
+
+* TJ/PA
+* SEFAZ/DF
+* SEFAZ/AL
+* SEFAZ/RS
+* COGE/CE
+* SEFAZ/BA
+* SEMEF/MA
+* TRF 4
 

@@ -185,7 +185,7 @@ Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios
           <li>Planejamento e Suporte &#xE0; Transi&#xE7;&#xE3;o</li>
           <li>Gerenciamento de Mudan&#xE7;as</li>
           <li>Gerenciamento de Configura&#xE7;&#xE3;o e Ativos</li>
-          <li>Gerenciamento de Libera&#xE7;&#xE3;o e Implata&#xE7;&#xE3;o</li>
+          <li>Gerenciamento de Libera&#xE7;&#xE3;o e Implanta&#xE7;&#xE3;o</li>
           <li>Avalia&#xE7;&#xE3;o de Mudan&#xE7;as</li>
           <li>Valida&#xE7;&#xE3;o e Testes de Servi&#xE7;os</li>
           <li>Gerenciamento do Conhecimento</li>

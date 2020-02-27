@@ -12,7 +12,25 @@ Antigamente a área de TI era apenas um setor de apoio para as organizações al
 
 ITIL é um framework público que descreve as melhores práticas para gerenciamento de serviços de tecnologia da informação \(TI\). ITIL é um acrônimo de _Information Technology Infrastructure Library_.
 
+> **ITIL** é um conjunto de práticas detalhadas para gerenciamento de serviços de TI que se concentra no alinhamento de serviços de TI com as necessidades dos negócios. 
+>
+> A ITIL descreve processos, procedimentos, tarefas e listas de verificação **que não são específicos da organização nem específicos da tecnologia**, mas podem ser aplicados por uma organização para estabelecer a integração com a estratégia da organização, entregando valor e mantendo um nível mínimo de competência. 
+>
+> Dessa forma, os processos ITIL oferecem indicações de melhores práticas para empresas de diferentes portes, devendo cada organização respeitar as suas especificidades, uma vez que em empresas menores os setores são mais enxutos e contam com menos recursos que os mesmos setores de grandes companhias.
+
 Como o próprio nome sugere, a ITIL é uma biblioteca composta por 5 livros, que são eles: **Service Strategy**, **Service Design**, **Service Transition**, **Service Operation** e **Continual Service Improvement**.
+
+> A ITIL prega que não exista uma separação clara entre a área de TI e o negócio. A publicação afirma que a integração da TI aos negócios faz com que a área de TI se torne uma parceira estratégica. As decisões sobre os investimentos em TI são tratadas nas reuniões de planejamento estratégico pelo conselho administrativo da empresa. Assim, a TI deixou de ser tratada por técnicos e passou a ser incorporada na estratégia da empresa para alcançar seus objetivos, garantindo que a TI sustente as estratégias e objetivos do negócio.
+>
+>  Na ITIL v3, há um **alinhamento entre a área de TI e o negócio**, o que facilita o processo de gerenciamento de serviços de TI.
+
+{% hint style="info" %}
+👁 **Fique de olho!**
+
+Uma das recomendações do ITIL é que as organizações ajustem seu contexto às boas práticas ITIL, adotando-as, de modo a viabilizar transparentemente a estrutura de gerenciamento de serviços ~~padronizada~~ personalizada.
+
+ITIL não é um padrão que tem que ser seguido; é um guia que deve ser lido e entendido, e usado para criar valor para o provedor do serviço e seus clientes.
+{% endhint %}
 
 A **ITIL** está organizada em 26 processos e 4 funções distribuídos em 5 estágios do ciclo de vida.
 
@@ -55,6 +73,10 @@ Em julho de 2011 foi publicada uma atualização da ITIL V3, que ficou conhecida
 
 De acordo com a ITIL, serviço é um meio de fornecer valor a clientes, facilitando a obtenção de resultados que eles desejam, sem que tenham que arcar com a propriedade de determinados custos e riscos.
 
+> _No ITIL, o conceito de serviço de TI diz respeito a um ou mais sistemas de TI que habilitam os processos de negócio da organização._
+>
+> Um serviço de TI é composto de tecnologia da informação, pessoas e processos; e é fornecido por um provedor de serviço de TI. Os serviços de TI voltados para o cliente suportam diretamente os processos de negócio.
+
 > Um **serviço** é um meio de entregar valor aos clientes, facilitando os resultados que os clientes querem alcançar, sem ter que assumir custos e riscos específicos.
 
 ### Gerenciamento de Serviços
@@ -67,7 +89,23 @@ O ****Gerenciamento de Serviços é um conjunto de capacidades organizacionais \
 O ****Gerenciamento de Serviços é um conjunto de **capacidades organizacionais** para fornecer valor para o cliente em forma de serviços.
 {% endhint %}
 
+{% hint style="warning" %}
+\*\*\*\*⭐ **Caiu em prova!**
+
+**Gerenciamento de serviços** é o que **permite um provedor de serviços** para entender os serviços que estão fornecendo, para **garantir que os serviços realmente facilitam os resultados que seus clientes desejam alcançar**, para entender o valor dos serviços para seus clientes e entender e gerenciar todos os custos e riscos associados a esses serviços. 
+
+O Gerenciamento de Serviços é um conjunto de capacidades organizacionais especializadas para fornecer valor aos clientes na forma de Serviços. **Essas “capacidades organizacionais especializadas” incluem os processos, métodos, funções, papéis e atividades** que um **provedor de serviços** usa para permitir que eles prestem serviços a seus clientes.
+{% endhint %}
+
 ## Ciclo de Vida do Serviço 
+
+> O núcleo da ITIL v3 é constituído de cinco publicações: estratégia; desenho; transição; operação; melhoria contínua. Cada uma dessas publicações é relacionada a um estágio do ciclo de vida do serviço, com orientações para uma abordagem integrada de gerenciamento de serviços.
+
+> O núcleo da ITIL v3 é constituído de cinco publicações, sendo cada uma delas relacionada a um estágio do ciclo de vida do serviço, com orientações para uma abordagem integrada de gerenciamento de serviços.
+>
+> Cada parte do ciclo de vida de serviço exerce influência sobre as demais e conta com entradas e realimentações entre si. Desta maneira, um conjunto constante de controle e equilíbrio, através do ciclo de vida de serviço, assegura que quando a demanda de negócio muda, os serviços podem ser adaptados, respondendo de forma eficiente.
+>
+> Vejamos a definição de cada uma das publicações que compõem a ITIL v3:
 
 Um serviço nasce, se desenvolve, entra em operação e pode ser descontinuado. É necessário gerenciar o serviço durante todo o seu ciclo de vida, desde a sua concepção até sua retirada de operação.
 
@@ -184,6 +222,8 @@ Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios
   </tbody>
 </table>## Estratégia de Serviço
 
+> Orienta sobre como as políticas e processos de gerenciamento de serviço podem ser desenhadas, desenvolvidas e implementada como ativos estratégicos ao longo do ciclo de vida de serviço. Entre os tópicos abordados nesta publicação, estão os ativos de serviço, o catálogo de serviços, gerenciamento financeiro, gerenciamento do portfólio de serviços, desenvolvimento organizacional, riscos estratégicos etc.
+
 Na estratégia de serviços se produz e mantém planos estratégicos.
 
 Nesse estágio, busca-se responder algumas perguntas:
@@ -252,6 +292,14 @@ Os processos integrantes da estratégia de serviço são:
 
 #### Gerenciamento da Estratégia de Serviço
 
+Neste processo, a ITIL cita a utilização da técnica **SWOT** para a realização da avaliação estratégica.
+
+Para a prova, basta saber que SWOT é simplesmente a soma de siglas dos termos em Inglês: “Strengths” \(forças\), “Weakness” \(fraquezas\), “Opportunities” \(oportunidades\) e “Threats” \(ameaças\). Traduzindo a sigla temos: FOFA \(forças, oportunidades, fraquezas e ameaças\). 
+
+A matriz SWOT trata do levantamento e registro das forças, fraquezas, ameaças e oportunidades de uma organização ou área. Desta maneira, devem ser analisados os ambientes interno e externo à organização.
+
+A **Análise SWOT** -  é uma ferramenta de planejamento estratégico usada para avaliar forças \(_**S**trengths_\), fraquezas \(_**W**eakness_\) , ameaças \(_**T**hreats_\) e oportunidades \(_**O**portunities_\) envolvidas em um projeto, negócio, ou qualquer outra situação que exija uma decisão. As forças e fraquezas estão focadas nos aspectos internos da organização e as ameaças e oportunidades estão focadas nos aspectos externos. O mapeamento das forças e fraquezas internas da organização, e das ameças e oportunidades externas fornecem uma rápida visão da situação estratégica da organização.
+
 #### Gerenciamento de Portfólio
 
 #### Gerenciamento de Demanda
@@ -262,6 +310,8 @@ Os processos integrantes da estratégia de serviço são:
 
 ## Desenho de Serviço
 
+> Fornece orientação para o desenho e desenvolvimento dos serviços e dos processos de gerenciamento de serviços, detalhando aspectos do gerenciamento do catálogo de serviços, do nível de serviço, da capacidade, da disponibilidade, da continuidade, da segurança da informação e dos fornecedores, além de mudanças e melhorias necessárias para manter ou agregar valor aos clientes ao longo do ciclo de vida de serviço.
+
 Este estágio do ciclo de vida tem como foco o desenho e a criação de serviços de TI, cujo propósito será realizar a estratégia concebida no estágio de estratégia de serviço.
 
 No desenho de serviço são feitas as especificações técnicas dos serviços de TI.
@@ -270,10 +320,20 @@ No desenho de serviço são feitas as especificações técnicas dos serviços d
 
 ### 4 Ps do desenho
 
-* Pessoas
-* Processos
-* Produtos
-* Parceiros
+Assim como na estratégia de serviços aqui no desenho de serviço também temos  a definição dos 4 Ps, mas aqui eles estão mais focados no contexto técnico.
+
+* **Pessoas:** habilidade e competências necessárias para prover os serviços.
+* **Produtos:** tecnologias necessárias para entregar os serviços.
+* **Processos:** papéis e atividades envolvidos para prover os serviços.
+* **Parceiros:** fornecedores que auxiliam o provimento dos serviços.
+
+### Service Design Package\(SDP\)
+
+É o documento que especifica todos os aspectos técnicos do serviço de TI.
+
+### Acordo de Nível Operacional
+
+O **Acordo de Nível Operacional** é um acordo entre o Provedor de Serviço de TI e outra parte da mesma organização. Esse acordo define mercadorias ou serviços a serem fornecidas e as responsabilidades de ambas as partes.
 
 ### Processos
 
@@ -297,6 +357,12 @@ No desenho de serviço são feitas as especificações técnicas dos serviços d
 
 O processo de gerenciamento da disponibilidade visa assegurar que os serviços de TI sejam projetados para atender e preservar os níveis de disponibilidade e confiabilidade requeridos pelo negócio.
 
+Este processo atua em 2 níveis de tratamento:
+
+**Atividades reativas**: **monitoramento**, medição, análise e gerenciamento de eventos, incidentes e problemas envolvendo indisponibilidade de serviço.
+
+**Atividades proativas**: **planejamento** proativo, **projeto**, recomendação e melhoria de disponibilidade.
+
 {% hint style="info" %}
 ✏**Nota:** Definições importantes
 
@@ -316,9 +382,46 @@ O processo de gerenciamento da disponibilidade visa assegurar que os serviços d
 
 O estágio de transição do serviço tem como principal objetivo colocar no ambiente de produção, em plena operação, um serviço que acabou de sair do estágio de desenho do serviço.
 
+> Orienta sobre como efetivar a transição de serviços novos e modificados para operações implementadas, detalhando os processos de planejamento e suporte à transição, gerenciamento de mudanças, gerenciamento da configuração e dos ativos de serviço, gerenciamento da liberação e da distribuição, teste e validação de serviço, avaliação e gerenciamento do conhecimento.
+
+### Processos
+
+#### Gerenciamento de Mudanças
+
+{% hint style="warning" %}
+\*\*\*\*⚠ **Caiu em prova!**
+
+A ITIL faz distinção entre três tipos diferentes de mudança:
+
+* Mudança padrão: alterações pré-autorizadas e de baixo risco que seguem um procedimento conhecido.
+* Mudança de emergência: alterações que devem ser implementadas imediatamente, por exemplo, para resolver um incidente grave.
+* Mudança normais: todas as outras alterações que não são alterações padrão ou mudanças de emergência.
+
+As Mudança Normais são frequentemente categorizadas como _Major, Significant or Minor_, dependendo do nível de risco envolvido. As organizações devem definir, em suas políticas de mudança, esses tipos de mudanças e as autoridades que devem ser envolvidas em cada uma destas . As mudanças podem exigir, por exemplo, reuniões regulares com o _**CAB \(Change Advisory Board\)**_ com o objetivo de que estas tenham o adequado tratamento. 
+{% endhint %}
+
 ## Operação de Serviço
 
+> Descreve a fase do ciclo de vida do gerenciamento de serviços que é responsável pelas atividades do dia a dia, orientando sobre como garantir a entrega e o suporte a serviços de forma eficiente e eficaz e detalhando os processos de gerenciamento de eventos, incidentes, problemas, acesso e de execução de requisições.
+
 Este é o estágio que se preocupa em entregar aos clientes e usuários os níveis de serviço acordados e gerenciar as aplicações, tecnologia e infraestrutura que suportam a entrega do serviço. É nele que os serviços efetivamente entregam **valor** ao cliente.
+
+> O estágio Operação do Serviço gerencia os serviços em produção para assegurar que sejam alcançados os seus objetivos de utilidade e garantia. Nele estão os processos do dia a dia, que mantêm os serviços funcionando. 
+>
+> Dito isso, os seguintes processos fazem parte da Operação de Serviço:
+>
+> * **Gerenciamento de eventos**
+> * **Gerenciamento de incidentes**
+> * **Execução de requisição**
+> * **Gerenciamento de acesso**
+> * **Gerenciamento de problema**
+>
+> E as seguintes funções são desempenhadas no contexto da Operação de Serviço:
+>
+> * **Central de serviços**
+> * **Gerenciamento técnico**
+> * **Gerenciamento de operações de TI**
+> * **Gerenciamento de aplicações**
 
 {% hint style="info" %}
 \*\*\*\*✏**TOME NOTA!** 
@@ -331,6 +434,16 @@ Este é o estágio que se preocupa em entregar aos clientes e usuários os níve
 #### Gerenciamento de Eventos
 
 #### Gerenciamento de Incidentes
+
+> Conforme a ITIL V3, os passos relacionados a execução do processo de gerenciamento de incidentes são os seguintes:
+>
+> 1. **Identificação de incidentes**: reconhecimento do incidente;
+> 2. **Registro de incidentes \(recording\)**: incidentes são registrados em uma ferramenta específica;
+> 3. **Categorização e priorização do incidente \(classification\)**: incidentes são classificados, bem como é realizada a avaliação da urgência que um determinado incidente deve ser resolvido;
+> 4. **Diagnóstico de incidentes**: Se deve em um primeiro momento fazer uso da base de conhecimento \(formada por outros problemas, incidentes e erros conhecidos\) pelos atendentes do primeiro nível de suporte **\(matching\)**. Em seguida deve ser realizado o entendimento do incidente que foi identificado e registrado **\(diagnosis\)**;
+> 5. **Escalada de incidentes**: caso o atendente do primeiro nível não consiga solucionar o incidente, este é escalonado para níveis de suporte superiores;
+> 6. **Resolução de incidentes**: ocorre a solução do incidente registrado;
+> 7. **Fechamento de incidentes**: encerramento do incidente registrado.
 
 #### Gerenciamento de Problemas
 
@@ -360,4 +473,9 @@ Em elaboração
 * SEFAZ/BA
 * SEMEF/MA
 * TRF 4
+* TJ/MA
+* TCE/RO
+* TJ/AM
+* TRF 3
+* DPE/AM
 

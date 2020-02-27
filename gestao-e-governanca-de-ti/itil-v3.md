@@ -127,16 +127,20 @@ São características básicas dos 5 estágios do ciclo de vida do serviço:
 
 Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios do ciclo de vida, conforme tabela a seguir:
 
-| Estágios | Processos | Funções |
-| :--- | :--- | :--- |
-
-
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><a href="itil-v3.md#estrategia-de-servicos">Estrat&#xE9;gia de Servi&#xE7;o</a>
-      </th>
-      <th style="text-align:left">
+      <th style="text-align:left">Est&#xE1;gios</th>
+      <th style="text-align:left">Processos</th>
+      <th style="text-align:left">Fun&#xE7;&#xF5;es</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><a href="itil-v3.md#estrategia-de-servicos">Estrat&#xE9;gia de Servi&#xE7;o</a>
+      </td>
+      <td style="text-align:left">
+        <p></p>
         <ol>
           <li><a href="itil-v3.md#gerenciamento-da-estrategia-de-servico">Gerenciamento da Estrat&#xE9;gia de Servi&#xE7;os</a>
           </li>
@@ -149,17 +153,14 @@ Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios
           <li><a href="itil-v3.md#gerenciamento-de-relacionamento-com-o-negocio">Gerenciamento de Relacionamento com o Neg&#xF3;cio</a>
           </li>
         </ol>
-      </th>
-      <th style="text-align:left"></th>
+      </td>
+      <td style="text-align:left"></td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
     <tr>
-      <th style="text-align:left"><a href="itil-v3.md#desenho-de-servico">Desenho de Servi&#xE7;o</a>
-      </th>
-      <th style="text-align:left">
+      <td style="text-align:left"><a href="itil-v3.md#desenho-de-servico">Desenho de Servi&#xE7;o</a>
+      </td>
+      <td style="text-align:left">
+        <p></p>
         <ol>
           <li>Coordena&#xE7;&#xE3;o do Desenho</li>
           <li>Gerenciamento de Cat&#xE1;logo de Servi&#xE7;o</li>
@@ -170,17 +171,14 @@ Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios
           <li>Gerenciamento de Seguran&#xE7;a da Informa&#xE7;&#xE3;o</li>
           <li>Gerenciamento de Fornecedores</li>
         </ol>
-      </th>
-      <th style="text-align:left"></th>
+      </td>
+      <td style="text-align:left"></td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
     <tr>
-      <th style="text-align:left"><a href="itil-v3.md#transicao-de-servico">Transi&#xE7;&#xE3;o de Servi&#xE7;o</a>
-      </th>
-      <th style="text-align:left">
+      <td style="text-align:left"><a href="itil-v3.md#transicao-de-servico">Transi&#xE7;&#xE3;o de Servi&#xE7;o</a>
+      </td>
+      <td style="text-align:left">
+        <p></p>
         <ol>
           <li>Planejamento e Suporte &#xE0; Transi&#xE7;&#xE3;o</li>
           <li>Gerenciamento de Mudan&#xE7;as</li>
@@ -190,17 +188,14 @@ Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios
           <li>Valida&#xE7;&#xE3;o e Testes de Servi&#xE7;os</li>
           <li>Gerenciamento do Conhecimento</li>
         </ol>
-      </th>
-      <th style="text-align:left"></th>
+      </td>
+      <td style="text-align:left"></td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
     <tr>
-      <th style="text-align:left"><a href="itil-v3.md#operacao-de-servico">Opera&#xE7;&#xE3;o de Servi&#xE7;o</a>
-      </th>
-      <th style="text-align:left">
+      <td style="text-align:left"><a href="itil-v3.md#operacao-de-servico">Opera&#xE7;&#xE3;o de Servi&#xE7;o</a>
+      </td>
+      <td style="text-align:left">
+        <p></p>
         <ol>
           <li>Gerenciamento de Eventos</li>
           <li>Gerenciamento de Incidentes</li>
@@ -208,32 +203,29 @@ Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios
           <li>Cumprimento de Requisi&#xE7;&#xF5;es</li>
           <li>Gerenciamento de Acesso</li>
         </ol>
-      </th>
-      <th style="text-align:left">
+      </td>
+      <td style="text-align:left">
+        <p></p>
         <ol>
           <li>Central de Servi&#xE7;os</li>
           <li>Gerenciamento T&#xE9;cnico</li>
           <li>Gerenciamento de Aplica&#xE7;&#xF5;es</li>
           <li>Gerenciamento de Opera&#xE7;&#xF5;es de TI</li>
         </ol>
-      </th>
+      </td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
     <tr>
-      <th style="text-align:left"><a href="itil-v3.md#melhoria-continua-de-servico">Melhoria Cont&#xED;nua de Servi&#xE7;o</a>
-      </th>
-      <th style="text-align:left">
+      <td style="text-align:left"><a href="itil-v3.md#melhoria-continua-de-servico">Melhoria Cont&#xED;nua de Servi&#xE7;o</a>
+      </td>
+      <td style="text-align:left">
+        <p></p>
         <ol>
           <li>Melhoria em 7 passos</li>
         </ol>
-      </th>
-      <th style="text-align:left"></th>
+      </td>
+      <td style="text-align:left"></td>
     </tr>
-  </thead>
-  <tbody></tbody>
+  </tbody>
 </table>## Estratégia de Serviços
 
 > Orienta sobre como as políticas e processos de gerenciamento de serviço podem ser desenhadas, desenvolvidas e implementada como ativos estratégicos ao longo do ciclo de vida de serviço. Entre os tópicos abordados nesta publicação, estão os ativos de serviço, o catálogo de serviços, gerenciamento financeiro, gerenciamento do portfólio de serviços, desenvolvimento organizacional, riscos estratégicos etc.

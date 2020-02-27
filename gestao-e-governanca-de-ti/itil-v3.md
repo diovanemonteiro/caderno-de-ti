@@ -25,7 +25,7 @@ Como o próprio nome sugere, a ITIL é uma biblioteca composta por 5 livros, que
 > Na ITIL v3, há um **alinhamento entre a área de TI e o negócio**, o que facilita o processo de gerenciamento de serviços de TI.
 
 {% hint style="info" %}
-👁 **Para ficar de olho!**
+\*\*\*\*👁**Para ficar de olho!**
 
 Uma das recomendações do ITIL é que as organizações ajustem seu contexto às boas práticas ITIL, adotando-as, de modo a viabilizar transparentemente a estrutura de gerenciamento de serviços ~~padronizada~~ personalizada.
 
@@ -90,7 +90,7 @@ O Gerenciamento de Serviços é um conjunto de ****capacidades organizacionais p
 {% endhint %}
 
 {% hint style="warning" %}
-⭐ **Caiu na prova!**
+\*\*\*\*⭐**Caiu na prova!**
 
 **Gerenciamento de serviços** é o que **permite um provedor de serviços** para entender os serviços que estão fornecendo, para **garantir que os serviços realmente facilitam os resultados que seus clientes desejam alcançar**, para entender o valor dos serviços para seus clientes e entender e gerenciar todos os custos e riscos associados a esses serviços.
 
@@ -281,7 +281,7 @@ Resumo das habilidades e recursos na tabela a seguir:
 | Gerenciamento | Capital Financeiro |
 
 {% hint style="success" %}
-🧠**Mnemônico!**
+\*\*\*\*🧠 **Mnemônico!**
 
 **Pessoas** detém o conhecimento...
 {% endhint %}
@@ -364,7 +364,7 @@ O **Gerenciamento de Nível de Serviço** visa manter e melhorar a qualidade dos
 > ANO\(Acordo de nível operacional\) é um acordo entre um **provedor de serviços de TI e outra parta da mesma organização**. Ele dá apoio à entrega, pelo provedor de serviço de TI, de serviços de TI a clientes e define os produtos ou serviços a serem fornecidos e as responsabilidades de ambas as partes.
 
 {% hint style="info" %}
-💡**Dica:** veja que a maior diferença entre os dois é o cliente em si. Enquanto no ANS o cliente é externo ao provedor de serviço, no ANO esse cliente é da mesma organização.
+\*\*\*\*💡 **Dica:** veja que a maior diferença entre os dois é o cliente em si. Enquanto no ANS o cliente é externo ao provedor de serviço, no ANO esse cliente é da mesma organização.
 {% endhint %}
 
 #### Gerenciamento de Capacidade
@@ -390,7 +390,7 @@ Este processo atua em 2 níveis de tratamento:
 **Atividades proativas**: **planejamento** proativo, **projeto**, recomendação e melhoria de disponibilidade.
 
 {% hint style="info" %}
-\*\*\*\*✏ **Nota:** Definições importantes
+\*\*\*\*✏**Nota:** Definições importantes
 
 * **Disponibilidade:** refere-se a habilidade de um serviço, componente ou item de configuração **desempenhar suas funções acordadas quando necessário**.
 * **Confiabilidade:** tempo que um serviço ou componente pode funcionar **sem interrupção** em conformidade com o acordo.
@@ -458,7 +458,7 @@ Resumidamente os processos de Transição do Serviço da ITIL v3, apresentados p
 > Dito isto, cabe ressaltar que **nenhuma mudança deve ser autorizada sem que esteja definido o plano exato do que fazer se esta mudança falhar**. É neste contexto que entra o Plano de Remediação, que irá restaurar o serviço a seu estado original, muitas vezes através de procedimentos de restauração de uma Baseline.
 
 {% hint style="warning" %}
-\*\*\*\*⭐ **Caiu na prova!**
+\*\*\*\*⭐**Caiu na prova!**
 
 A ITIL faz distinção entre três tipos diferentes de mudança:
 
@@ -493,7 +493,7 @@ Este é o estágio que se preocupa em entregar aos clientes e usuários os níve
 > * **Gerenciamento de aplicações**
 
 {% hint style="info" %}
-\*\*\*\*✏ **TOME NOTA!**
+\*\*\*\*✏**TOME NOTA!**
 
 É o estágio responsável pelas atividades do dia a dia, orientando sobre como garantir a entrega e o suporte a serviços de forma eficiente e eficaz, detalhando os processos de gerenciamento de **eventos**, **incidentes**, **problemas**, **acesso** e **execução de requisições**.
 {% endhint %}
@@ -523,7 +523,7 @@ O objetivo do **Gerenciamento de Incidentes** é restaurar o serviço o mais rá
 O Gerenciamento de Problemas visa minimizar o impacto de incidentes e problemas, podendo ser reativo ou proativo, ou seja, pode se antecipar ao problema ou pode servir para minimizar seus efeitos.
 
 {% hint style="info" %}
-\*\*\*\*✏ **Nota:** Definições importantes
+\*\*\*\*✏**Nota:** Definições importantes
 
 Solução de contorno: Redução ou eliminação do impacto de um incidente ou problema para o qual uma resolução completa ainda não está disponível, por exemplo, reiniciando um item de configuração em falha. Soluções de contorno para problemas são documentadas nos registros de erro conhecido. As soluções de contorno para incidentes que não possuem um registro de problema associado são documentadas no registro de incidente
 

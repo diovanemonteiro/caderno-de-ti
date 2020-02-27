@@ -494,6 +494,8 @@ Este é o estágio que se preocupa em entregar aos clientes e usuários os níve
 
 O Gerenciamento de Incientes visa garantir que a operação normal de um serviço seja restaurada tão rapidamente quando possível.
 
+O objetivo do **Gerenciamento de Incidentes** é restaurar o serviço o mais rápido possível. Se o incidente não puder ser resolvido rapidamente, ele pode ser escalado funcionalmente ou hierarquicamente.
+
 > Conforme a ITIL V3, os passos relacionados a execução do processo de gerenciamento de incidentes são os seguintes:
 >
 > 1. **Identificação de incidentes**: reconhecimento do incidente;
@@ -518,7 +520,6 @@ Evento: Uma mudança de estado que possui significado para o gerenciamento de um
 Incidente: Uma interrupção não planejada de um serviço de TI ou uma redução da qualidade de um serviço de TI. A falha de um item de configuração que ainda não afetou o serviço também é um incidente, por exemplo, a falha em um disco de um conjunto espelhado.
 
 Alerta: Uma notificação de que certo limite foi atingido, algo mudou ou uma falha ocorreu. Alertas são muitas vezes criados e gerenciados por ferramentas de gerenciamento de sistema e são gerenciados pelo processo de gerenciamento de evento.
-
 {% endhint %}
 
 #### Cumprimento de Requisição

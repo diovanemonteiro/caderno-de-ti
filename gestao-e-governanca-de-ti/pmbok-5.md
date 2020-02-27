@@ -8,3 +8,11 @@
 
 ## Processos
 
+| **Área de Conhecimento** | Iniciação | Planejamento | Execução | Monitoramento e controle | Encerramento |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Integração** |  |  |  |  |  |
+| **Escopo** |  |  |  |  |  |
+| **Tempo** |  |  |  |  |  |
+
+
+

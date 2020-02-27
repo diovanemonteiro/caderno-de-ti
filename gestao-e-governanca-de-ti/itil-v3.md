@@ -25,7 +25,7 @@ Como o próprio nome sugere, a ITIL é uma biblioteca composta por 5 livros, que
 >  Na ITIL v3, há um **alinhamento entre a área de TI e o negócio**, o que facilita o processo de gerenciamento de serviços de TI.
 
 {% hint style="info" %}
-👁 **Fique de olho!**
+👁 **Para ficar de olho!**
 
 Uma das recomendações do ITIL é que as organizações ajustem seu contexto às boas práticas ITIL, adotando-as, de modo a viabilizar transparentemente a estrutura de gerenciamento de serviços ~~padronizada~~ personalizada.
 
@@ -73,7 +73,7 @@ Em julho de 2011 foi publicada uma atualização da ITIL V3, que ficou conhecida
 
 De acordo com a ITIL, serviço é um meio de fornecer valor a clientes, facilitando a obtenção de resultados que eles desejam, sem que tenham que arcar com a propriedade de determinados custos e riscos.
 
-> _No ITIL, o conceito de serviço de TI diz respeito a um ou mais sistemas de TI que habilitam os processos de negócio da organização._
+> _Na ITIL, o conceito de serviço de TI diz respeito a um ou mais sistemas de TI que habilitam os processos de negócio da organização._
 >
 > Um serviço de TI é composto de tecnologia da informação, pessoas e processos; e é fornecido por um provedor de serviço de TI. Os serviços de TI voltados para o cliente suportam diretamente os processos de negócio.
 
@@ -224,6 +224,8 @@ Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios
 
 > Orienta sobre como as políticas e processos de gerenciamento de serviço podem ser desenhadas, desenvolvidas e implementada como ativos estratégicos ao longo do ciclo de vida de serviço. Entre os tópicos abordados nesta publicação, estão os ativos de serviço, o catálogo de serviços, gerenciamento financeiro, gerenciamento do portfólio de serviços, desenvolvimento organizacional, riscos estratégicos etc.
 
+> A Estratégia de Serviço busca **garantir que as organizações estejam em posição de lidar com custos e riscos associados a seus Portfólios de Serviços** e que  estejam preparadas para a efetividade operacional e, indo além, para um desempenho diferenciado. As decisões tomadas na Estratégia de Serviço têm consequências de longo alcance, inclusive aquelas de efeito tardio.
+
 Na estratégia de serviços se produz e mantém planos estratégicos.
 
 Nesse estágio, busca-se responder algumas perguntas:
@@ -316,7 +318,13 @@ Este estágio do ciclo de vida tem como foco o desenho e a criação de serviço
 
 No desenho de serviço são feitas as especificações técnicas dos serviços de TI.
 
-### Os 5 aspectos do desenho do serviço
+### Os 5 aspectos do desenho de serviço
+
+* Soluções de serviço para serviços novos ou alterados
+* Sistemas de informações de gerenciamento e ferramentas
+* Arquitetura tecnológicas e de gerenciamento
+* Processos
+* Métodos de medição e métricas
 
 ### 4 Ps do desenho
 
@@ -353,6 +361,14 @@ O **Acordo de Nível Operacional** é um acordo entre o Provedor de Serviço de 
 
 #### Gerenciamento de Capacidade
 
+{% hint style="info" %}
+**Gerenciamento de Capacidade de Negócio** - garantir que os requisitos de negócio futuros definidos para os serviços de TI sejam considerados e compreendidos para serem usados em um plano de capacidade. O gerenciamento de capacidade do negócio traduz as necessidades e planos de negócio em serviço e infraestrutura de TI, garantindo que requisitos do negócio futuros sejam quantificados, desenhados, planejados e implementados de forma oportuna.
+ 
+**Gerenciamento de Capacidade de Serviço** - o foco desse subprocesso é o gerenciamento, controle e prognóstico sobre o  desempenho e capacidade de uso e carga de trabalho dos serviços operacionais de TI ativos, de ponta a ponta. Isso garante que o desempenho de todos os serviços, detalhados por meio de metas estabelecidas em acordos de nível de serviço e requisitos de nível de serviço, seja monitorado e medido e que os dados coletados sejam registrados, analisados e reportados, com vistas ao atendimento desses acordos.
+ 
+**Gerenciamento de Capacidade de Componente (recurso)** - o foco desse subprocesso é o gerenciamento, controle e prognóstico sobre o desempenho, utilização e capacidade de componentes (recursos) individuais de Tecnologia da Informação.
+{% endhint %}
+
 #### Gerenciamento de Disponibilidade
 
 O processo de gerenciamento da disponibilidade visa assegurar que os serviços de TI sejam projetados para atender e preservar os níveis de disponibilidade e confiabilidade requeridos pelo negócio.
@@ -369,12 +385,21 @@ Este processo atua em 2 níveis de tratamento:
 * **Disponibilidade:** refere-se a habilidade de um serviço, componente ou item de configuração **desempenhar suas funções acordadas quando necessário**.
 * **Confiabilidade:** tempo que um serviço ou componente pode funcionar **sem interrupção** em conformidade com o acordo.
 * **Sustentabilidade:** rapidez que um serviço, componente ou item de configuração consegue ser **restaurado** para seu estado normal após uma falha.
-* **Serviceability:** é a habilidade de um fornecedor em atender os termos de seu contrato.
+* **Serviceability:** é a habilidade de um fornecedor em atender os termos de seu contrato. É a medida de quão efetivamente os fornecedores terceirizados entregam seus serviços conforme acordado contratualmente.  
 {% endhint %}
 
 #### Gerenciamento de Continuidade
 
 #### Gerenciamento da Segurança da Informação
+
+O gerenciamento de segurança da informação, que faz parte do estágio de Desenho de Serviço, define os seguintes objetivos:
+
+* Garantir que o acesso à informação seja fornecido de maneira correta (**confidencialidade** dos dados);
+* Garantir que a informação seja entregue completa, precisa e protegida contra a modificação (**integridade** dos dados);
+* Disponibilizar a informação e deixá-la disponível para uso quando requerida, preparando os sistemas de TI para que possam resistir aos ataques e prevenindo contra falhas de segurança (**disponibilidade** dos dados);
+* Garantir a confiabilidade das transações (troca de informações) que existem na organização e entre parceiros (**autenticidade**).
+
+Segundo a ITIL, o processo Gerenciamento de Segurança da Informação visa garantir que uma Política de Segurança será construída, mantida e implementada, cobrindo tanto o uso quanto o uso indevido de todos os sistemas e serviços de TI.
 
 #### Gerenciamento de Fornecedores
 
@@ -384,12 +409,44 @@ O estágio de transição do serviço tem como principal objetivo colocar no amb
 
 > Orienta sobre como efetivar a transição de serviços novos e modificados para operações implementadas, detalhando os processos de planejamento e suporte à transição, gerenciamento de mudanças, gerenciamento da configuração e dos ativos de serviço, gerenciamento da liberação e da distribuição, teste e validação de serviço, avaliação e gerenciamento do conhecimento.
 
+A fase de transição de serviço da ITIL define 7 processos, sendo que um deles é específico para o Planejamento e suporte da transição de serviço, o que invalida a questão, já que o gerenciamento de mudanças é outro processo da fase de transição. Vejamos todos os processos dessa fase:
+ 
+* Planejamento e suporte de transição;
+* Gerenciamento de mudanças;
+* Gerenciamento de ativos de serviço e de configuração;
+* Gerenciamento de liberação e implantação;
+* Validação e teste de serviço;
+* Avaliação de mudança;
+* Gestão do conhecimento.
+
+Resumidamente os processos de Transição do Serviço da ITIL v3, apresentados por FERNANDES e ABREU (2012)  v3 são:
+ 
+**Planejamento e Suporte à Transição:**  tem o objetivo de planejar e coordenar os recursos necessários para colocar um serviço novo ou modificado no ambiente de produção, dentro do custo, do prazo e da qualidade estimados.
+ 
+**Gerenciamento de Mudanças:** visa assegurar o tratamento sistemático e padronizado de todas as mudanças ocorridas no ambiente operacional, para minimizar os impactos provocados por eventuais incidentes e ou problemas, decorrentes destas mudanças.
+ 
+**Gerenciamento de Ativos de Serviço e da Configuração:** abrange identificação, registro, controle e verificação de ativos de serviço e itens de configuração (componentes de TI, tais como hardware, software e documentação relacionada), incluindo suas versões, componentes e interfaces, dentro de um repositório centralizado. 
+ 
+**Gerenciamento da Liberação e da Distribuição:** é o gerenciamento das atividades que envolvem  mudanças autorizadas em um serviço de TI (incluindo atividades de planejamento, desenho, construção, configuração e teste de itens de software e hardware), visando criar um conjunto de componentes finais para ser implantado em um ambiente de produção.
+ 
+**Validação e Teste do Serviço:** processo que busca a garantia da qualidade de uma liberação visando a entrega de um serviço validado e testado, pronto para o uso dentro dos propósitos para os quais foi desenhado e construído.
+ 
+**Avaliação de Mudanças:** visa criar meios padronizados e consistentes para avaliar o desempenho de uma mudança  em uma infraestrutura de TI e serviços já existente, a partir de metas pré-estabelecidas inclusive com o gerenciamento dos desvios encontrados.
+ 
+**Gerenciamento do Conhecimento:** busca garantir a entrega da informação nas condições adequadas para a tomada de decisão, por meio do uso de um Sistema de Gerenciamento do Conhecimento sobre Serviços e de uma base de conhecimento ampla, contendo informações tais como experiência da equipe, requisitos, habilidades e expectativas dos fornecedores e parceiros, histórico de configurações, etc.
+ 
 ### Processos
 
 #### Gerenciamento de Mudanças
 
+> Segundo a ITIL v3., nenhuma mudança deve ser aprovada sem ter explicitamente definida a questão do que fazer se ela não for bem sucedida. Idealmente, deve haver um plano de volta à situação inicial, geralmente por meio da restauração dos conjuntos de linhas de base dos Itens de Configuração.
+>
+> Portanto, o **Plano de Remediação** consiste em um procedimento ou roteiro usado no caso da mudança não ser bem sucedida.
+>
+> Dito isto, cabe ressaltar que **nenhuma mudança deve ser autorizada sem que esteja definido o plano exato do que fazer se esta mudança falhar**. É neste contexto que entra o Plano de Remediação, que irá restaurar o serviço a seu estado original, muitas vezes através de procedimentos de restauração de uma Baseline.
+
 {% hint style="warning" %}
-\*\*\*\*⚠ **Caiu em prova!**
+\*\*\*\*⚠ **Caiu na prova!**
 
 A ITIL faz distinção entre três tipos diferentes de mudança:
 
@@ -435,6 +492,8 @@ Este é o estágio que se preocupa em entregar aos clientes e usuários os níve
 
 #### Gerenciamento de Incidentes
 
+O Gerenciamento de Incientes visa garantir que a operação normal de um serviço seja restaurada tão rapidamente quando possível.
+
 > Conforme a ITIL V3, os passos relacionados a execução do processo de gerenciamento de incidentes são os seguintes:
 >
 > 1. **Identificação de incidentes**: reconhecimento do incidente;
@@ -447,7 +506,24 @@ Este é o estágio que se preocupa em entregar aos clientes e usuários os níve
 
 #### Gerenciamento de Problemas
 
+O Gerenciamento de Problemas visa minimizar o impacto de incidentes e problemas, podendo ser reativo ou proativo, ou seja, pode se antecipar ao problema ou pode servir para minimizar seus efeitos.
+
+{% hint style="info" %}
+✏**Nota:** Definições importantes
+
+Solução de contorno: Redução ou eliminação do impacto de um incidente ou problema para o qual uma resolução completa ainda não está disponível, por exemplo, reiniciando um item de configuração em falha. Soluções de contorno para problemas são documentadas nos registros de erro conhecido. As soluções de contorno para incidentes que não possuem um registro de problema associado são documentadas no registro de incidente
+
+Evento: Uma mudança de estado que possui significado para o gerenciamento de um item de configuração ou serviço de TI. Evento também é o termo usado para quando um alerta ou notificação é criado por qualquer serviço de TI, item de configuração ou ferramenta de monitoração. Eventos geralmente requerem uma ação da equipe de operações de TI e às vezes podem levar à geração e registro de incidentes.
+
+Incidente: Uma interrupção não planejada de um serviço de TI ou uma redução da qualidade de um serviço de TI. A falha de um item de configuração que ainda não afetou o serviço também é um incidente, por exemplo, a falha em um disco de um conjunto espelhado.
+
+Alerta: Uma notificação de que certo limite foi atingido, algo mudou ou uma falha ocorreu. Alertas são muitas vezes criados e gerenciados por ferramentas de gerenciamento de sistema e são gerenciados pelo processo de gerenciamento de evento.
+
+{% endhint %}
+
 #### Cumprimento de Requisição
+
+É o processo de tratamento de solicitações de baixo risco que ocorrem com frequência e de atendimento de baixo custo. Pode envolver a solicitação de informações ou serviços simples, como instalação de software ou autorizações de acesso.
 
 #### Gerenciamento de Acesso
 
@@ -461,7 +537,9 @@ Este é o estágio que se preocupa em entregar aos clientes e usuários os níve
 
 ## Melhoria Contínua de Serviço
 
-Em elaboração
+Melhoria Contínua do Serviço: orienta, através de princípios, práticas e métodos de gerenciamento da qualidade, sobre como fazer sistematicamente melhorias incrementais e de larga escala na qualidade do serviço, **com base principalmente no modelo PDCA** preconizado pela ISO/IEC 20000.
+
+**PDCA** (do inglês: **PLAN** - **DO** - **CHECK** - **ACT** ou Adjust) é um método iterativo de gestão de quatro passos, utilizado para o controle e melhoria contínua de processos e produtos.
 
 ## Provas recentes
 

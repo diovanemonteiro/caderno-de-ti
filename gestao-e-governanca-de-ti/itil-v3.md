@@ -138,9 +138,9 @@ Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios
       </th>
       <th style="text-align:left">
         <ol>
-          <li><a href="itil-v3.md#gerenciamento-de-estrategia-de-servico">Gerenciamento da Estrat&#xE9;gia de Servi&#xE7;os</a>
+          <li><a href="itil-v3.md#gerenciamento-da-estrategia-de-servico">Gerenciamento da Estrat&#xE9;gia de Servi&#xE7;os</a>
           </li>
-          <li><a href="itil-v3.md#gerenciamento-de-portifolio">Gerenciamento de Portf&#xF3;lio</a>
+          <li><a href="itil-v3.md#gerenciamento-de-portfolio">Gerenciamento de Portf&#xF3;lio</a>
           </li>
           <li><a href="itil-v3.md#gerenciamento-financeiro">Gerenciamento Financeiro</a>
           </li>

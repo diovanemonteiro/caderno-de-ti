@@ -314,7 +314,7 @@ A **Análise SWOT** -  é uma ferramenta de planejamento estratégico usada para
 
 > Fornece orientação para o desenho e desenvolvimento dos serviços e dos processos de gerenciamento de serviços, detalhando aspectos do gerenciamento do catálogo de serviços, do nível de serviço, da capacidade, da disponibilidade, da continuidade, da segurança da informação e dos fornecedores, além de mudanças e melhorias necessárias para manter ou agregar valor aos clientes ao longo do ciclo de vida de serviço.
 
-Este estágio do ciclo de vida tem como foco o desenho e a criação de serviços de TI, cujo propósito será realizar a estratégia concebida no estágio de estratégia de serviço.
+Este estágio do ciclo de vida tem como foco o desenho e a criação de serviços de TI, cujo propósito será realizar a estratégia concebida no estágio de estratégia de serviço. Através do uso das práticas, processos e políticas de TI vigente, os serviços devem ser construídos de forma a assegurar a qualidade da entrega, a satisfação dos clientes, a eficiência dos custos e a facilidade de colocá-los em produção. 
 
 No desenho de serviço são feitas as especificações técnicas dos serviços de TI.
 
@@ -351,6 +351,8 @@ O **Acordo de Nível Operacional** é um acordo entre o Provedor de Serviço de 
 
 #### Gerenciamento de Nível de Serviço
 
+O **Gerenciamento de Nível de Serviço** visa manter e melhorar a qualidade dos serviços de TI através de um ciclo contínuo de atividades envolvendo planejamento, coordenação, elaboração, estabelecimento de acordo de metas de desempenho e responsabilidades mútuas, monitoramento e divulgação de níveis de serviço (em relação aos clientes), de níveis operacionais (em relação a fornecedores internos) e de contratos de apoio com fornecedores de serviços.
+
 > SLA\(Service level agreement\) ou ANS\(Acordo de nível de serviço\) é um acordo **entre o provedor de serviços de TI e um cliente**. O acordo de nível de serviço descreve o serviço de TI, documenta metas de nível de serviço e especifica as responsabilidades do provedor de serviço de TI e do cliente. Um único acordo pode cobrir múltiplos serviços de TI ou múltiplos clientes.
 
 > ANO\(Acordo de nível operacional\) é um acordo entre um **provedor de serviços de TI e outra parta da mesma organização**. Ele dá apoio à entrega, pelo provedor de serviço de TI, de serviços de TI a clientes e define os produtos ou serviços a serem fornecidos e as responsabilidades de ambas as partes.
@@ -373,6 +375,8 @@ O **Acordo de Nível Operacional** é um acordo entre o Provedor de Serviço de 
 
 O processo de gerenciamento da disponibilidade visa assegurar que os serviços de TI sejam projetados para atender e preservar os níveis de disponibilidade e confiabilidade requeridos pelo negócio.
 
+> Este processo é responsável por garantir que os serviços de TI atendam às necessidades atuais e futuras de disponibilidade do negócio de uma maneira mais efetiva em custo e mais oportuna. O gerenciamento de disponibilidade define, analisa, planeja, mede e melhora todos os aspectos da disponibilidade de serviços de TI e garante que todos os processos, infraestruturas, ferramentas, papéis, etc. de TI sejam adequados para as metas de nível de serviço acordadas para disponibilidade. 
+
 Este processo atua em 2 níveis de tratamento:
 
 **Atividades reativas**: **monitoramento**, medição, análise e gerenciamento de eventos, incidentes e problemas envolvendo indisponibilidade de serviço.
@@ -389,6 +393,8 @@ Este processo atua em 2 níveis de tratamento:
 {% endhint %}
 
 #### Gerenciamento de Continuidade
+
+> Este processo é responsável pelo gerenciamento de risco que podem impactar seriamente o negócio. O gerenciamento de continuidade de negócio protege as conveniências das principais partes interessadas, reputação, marca e atividades de criação de valor. O processo envolve a redução de riscos a um nível aceitável e planejamento para a recuperação de processos de negócio caso ocorra uma interrupção ao negócio. O gerenciamento de continuidade de negócio define objetivos, escopo e requisitos para o gerenciamento de continuidade de serviço de TI.
 
 #### Gerenciamento da Segurança da Informação
 
@@ -520,6 +526,12 @@ Evento: Uma mudança de estado que possui significado para o gerenciamento de um
 Incidente: Uma interrupção não planejada de um serviço de TI ou uma redução da qualidade de um serviço de TI. A falha de um item de configuração que ainda não afetou o serviço também é um incidente, por exemplo, a falha em um disco de um conjunto espelhado.
 
 Alerta: Uma notificação de que certo limite foi atingido, algo mudou ou uma falha ocorreu. Alertas são muitas vezes criados e gerenciados por ferramentas de gerenciamento de sistema e são gerenciados pelo processo de gerenciamento de evento.
+
+EVENTO: Qualquer ocorrência que tenha significado para o serviço ou para o gerenciamento de um item de configuração.
+
+INCIDENTE: Uma interrupção não planejada de um serviço de TI ou uma redução da qualidade de um serviço de TI. A falha de um item de configuração que ainda não afetou o serviço também é um incidente, por exemplo, a falha em um disco de um conjunto espelhado.
+
+PROBLEMA: a causa raiz de um ou mais incidentes. A causa geralmente não é conhecida no momento em que o registro de problema é criado e o processo do gerenciamento de problema é responsável pela investigação a ser conduzida.
 {% endhint %}
 
 #### Cumprimento de Requisição

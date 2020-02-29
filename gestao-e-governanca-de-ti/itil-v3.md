@@ -554,6 +554,8 @@ PROBLEMA: a causa raiz de um ou mais incidentes. A causa geralmente não é conh
 
 #### Gerenciamento de Aplicações
 
+#### Gerenciamento de Operações de Serviço
+
 ## Melhoria Contínua de Serviço
 
 Melhoria Contínua do Serviço: orienta, através de princípios, práticas e métodos de gerenciamento da qualidade, sobre como fazer sistematicamente melhorias incrementais e de larga escala na qualidade do serviço, **com base principalmente no modelo PDCA** preconizado pela ISO/IEC 20000.

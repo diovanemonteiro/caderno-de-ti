@@ -364,7 +364,7 @@ O **Gerenciamento de Nível de Serviço** visa manter e melhorar a qualidade dos
 > ANO\(Acordo de nível operacional\) é um acordo entre um **provedor de serviços de TI e outra parta da mesma organização**. Ele dá apoio à entrega, pelo provedor de serviço de TI, de serviços de TI a clientes e define os produtos ou serviços a serem fornecidos e as responsabilidades de ambas as partes.
 
 {% hint style="info" %}
-\*\*\*\*💡 **Dica:** veja que a maior diferença entre os dois é o cliente em si. Enquanto no ANS o cliente é externo ao provedor de serviço, no ANO esse cliente é da mesma organização.
+\*\*\*\*💡**Dica:** veja que a maior diferença entre os dois é o cliente em si. Enquanto no ANS o cliente é externo ao provedor de serviço, no ANO esse cliente é da mesma organização.
 {% endhint %}
 
 #### Gerenciamento de Capacidade
@@ -525,19 +525,19 @@ O Gerenciamento de Problemas visa minimizar o impacto de incidentes e problemas,
 {% hint style="info" %}
 \*\*\*\*✏**Nota:** Definições importantes
 
-Solução de contorno: Redução ou eliminação do impacto de um incidente ou problema para o qual uma resolução completa ainda não está disponível, por exemplo, reiniciando um item de configuração em falha. Soluções de contorno para problemas são documentadas nos registros de erro conhecido. As soluções de contorno para incidentes que não possuem um registro de problema associado são documentadas no registro de incidente
+**Solução de contorno:** Redução ou eliminação do impacto de um incidente ou problema para o qual uma resolução completa ainda não está disponível, por exemplo, reiniciando um item de configuração em falha. Soluções de contorno para problemas são documentadas nos registros de erro conhecido. As soluções de contorno para incidentes que não possuem um registro de problema associado são documentadas no registro de incidente
 
-Evento: Uma mudança de estado que possui significado para o gerenciamento de um item de configuração ou serviço de TI. Evento também é o termo usado para quando um alerta ou notificação é criado por qualquer serviço de TI, item de configuração ou ferramenta de monitoração. Eventos geralmente requerem uma ação da equipe de operações de TI e às vezes podem levar à geração e registro de incidentes.
+**Evento:** Uma mudança de estado que possui significado para o gerenciamento de um item de configuração ou serviço de TI. Evento também é o termo usado para quando um alerta ou notificação é criado por qualquer serviço de TI, item de configuração ou ferramenta de monitoração. Eventos geralmente requerem uma ação da equipe de operações de TI e às vezes podem levar à geração e registro de incidentes.
 
-Incidente: Uma interrupção não planejada de um serviço de TI ou uma redução da qualidade de um serviço de TI. A falha de um item de configuração que ainda não afetou o serviço também é um incidente, por exemplo, a falha em um disco de um conjunto espelhado.
+**Incidente:** Uma interrupção não planejada de um serviço de TI ou uma redução da qualidade de um serviço de TI. A falha de um item de configuração que ainda não afetou o serviço também é um incidente, por exemplo, a falha em um disco de um conjunto espelhado.
 
-Alerta: Uma notificação de que certo limite foi atingido, algo mudou ou uma falha ocorreu. Alertas são muitas vezes criados e gerenciados por ferramentas de gerenciamento de sistema e são gerenciados pelo processo de gerenciamento de evento.
+**Alerta:** Uma notificação de que certo limite foi atingido, algo mudou ou uma falha ocorreu. Alertas são muitas vezes criados e gerenciados por ferramentas de gerenciamento de sistema e são gerenciados pelo processo de gerenciamento de evento.
 
-EVENTO: Qualquer ocorrência que tenha significado para o serviço ou para o gerenciamento de um item de configuração.
+**Evento:** Qualquer ocorrência que tenha significado para o serviço ou para o gerenciamento de um item de configuração.
 
-INCIDENTE: Uma interrupção não planejada de um serviço de TI ou uma redução da qualidade de um serviço de TI. A falha de um item de configuração que ainda não afetou o serviço também é um incidente, por exemplo, a falha em um disco de um conjunto espelhado.
+**Incidente:** Uma interrupção não planejada de um serviço de TI ou uma redução da qualidade de um serviço de TI. A falha de um item de configuração que ainda não afetou o serviço também é um incidente, por exemplo, a falha em um disco de um conjunto espelhado.
 
-PROBLEMA: a causa raiz de um ou mais incidentes. A causa geralmente não é conhecida no momento em que o registro de problema é criado e o processo do gerenciamento de problema é responsável pela investigação a ser conduzida.
+**Problema:** a causa raiz de um ou mais incidentes. A causa geralmente não é conhecida no momento em que o registro de problema é criado e o processo do gerenciamento de problema é responsável pela investigação a ser conduzida.
 {% endhint %}
 
 #### Cumprimento de Requisição

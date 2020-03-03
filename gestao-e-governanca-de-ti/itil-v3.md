@@ -316,6 +316,12 @@ A **Análise SWOT** - é uma ferramenta de planejamento estratégico usada para 
 
 #### Gerenciamento de Relacionamento com o Negócio
 
+{% hint style="info" %}
+**Importante!**
+
+**Termo de abertura**: um documento que contém detalhes de um novo serviço, uma mudança significativa ou outro projeto significante. Os termos de abertura são normalmente autorizados pelo gerenciamento de portfólio de serviço ou por um escritório de gerenciamento de projeto. O termo de abertura também é usado para descrever a ação de autorização do trabalho necessário para concluir a mudança de serviço ou de projeto. 
+{% endhint %}
+
 ## Desenho de Serviço
 
 > Fornece orientação para o desenho e desenvolvimento dos serviços e dos processos de gerenciamento de serviços, detalhando aspectos do gerenciamento do catálogo de serviços, do nível de serviço, da capacidade, da disponibilidade, da continuidade, da segurança da informação e dos fornecedores, além de mudanças e melhorias necessárias para manter ou agregar valor aos clientes ao longo do ciclo de vida de serviço.

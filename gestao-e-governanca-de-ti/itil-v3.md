@@ -8,7 +8,9 @@ description: >-
 
 ## Introdução
 
-Antigamente a área de TI era apenas um setor de apoio para as organizações alcançar seus objetivos de negócio.
+> Antes da popularização da Tecnologia da Informação, não havia necessidade realizar o gerenciamento dos serviços de TI, já que eram esparsos e ocasionais. A partir dos anos 80, os serviços de TI passaram a ocupar um espaço mais relevante nas instituições, fazendo-se necessário um controle mais organizado dos serviços. Neste momento, o governo britânico iniciou a publicação de vários livros, contendo as práticas que ele julgava mais importantes para o gerenciamento dos serviços de TI. Esta coletânea de 40 livros foi denominada **IT Infrastructure Library \(ITIL\)**.
+
+Antigamente a área de TI era apenas um setor de apoio para as organizações alcançar seus objetivos de negócio. Com a evolução das tecnologias o setor de TI se tornou mais complexo e estratégico para as organizações. precisaram se adaptar e a TI se tornou elemento primordial para os objetivos de negócio da organização.
 
 ITIL é um framework público que descreve as melhores práticas para gerenciamento de serviços de tecnologia da informação \(TI\). ITIL é um acrônimo de _**Information Technology Infrastructure Library**_.
 
@@ -64,8 +66,6 @@ Em abril de 2001, o CCTA foi incorporado ao OGC _\(Office of Government Commerce
 A versão 3 da ITIL foi lançada em maio de 2007 e representou uma grande evolução em relação à versão anterior, por organizar os processos de gerenciamento de serviços em um estrutura de ciclo de vida de serviço.
 
 Em julho de 2011 foi publicada uma atualização da ITIL V3, que ficou conhecida como ITIL 2011.
-
-> Antes da popularização da Tecnologia da Informação, não havia necessidade realizar o gerenciamento dos serviços de TI, já que eram esparsos e ocasionais. A partir dos anos 80, os serviços de TI passaram a ocupar um espaço mais relevante nas instituições, fazendo-se necessário um controle mais organizado dos serviços. Neste momento, o governo britânico iniciou a publicação de vários livros, contendo as práticas que ele julgava mais importantes para o gerenciamento dos serviços de TI. Esta coletânea de 40 livros foi denominada **IT Infrastructure Library \(ITIL\)**.
 
 ## Conceitos Básicos
 

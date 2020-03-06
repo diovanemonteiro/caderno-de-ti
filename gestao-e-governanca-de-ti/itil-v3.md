@@ -26,9 +26,7 @@ Ao pé da letra, **ITIL** é um acrônimo para _**Information Technology Infrast
 * Operação de Serviço \(Service Operation\) e 
 * Melhoria Contínua de Serviço \(Continual Service Improvement\).
 
-Os cinco principais livros da ITIL:
-
-![](../.gitbook/assets/livros-da-itil.jpg)
+![Os cinco principais livros da ITIL](../.gitbook/assets/livros-da-itil.jpg)
 
 ITIL é um framework público que descreve as melhores práticas para gerenciamento de serviços de tecnologia da informação \(TI\). ITIL é um acrônimo de _**Information Technology Infrastructure Library**_.
 

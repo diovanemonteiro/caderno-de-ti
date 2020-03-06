@@ -12,6 +12,8 @@ Por muito tempo, a tecnologia da informação foi considerada um mero setor de s
 
 Com a evolução das tecnologias o setor de TI se tornou cada vez mais complexo e estratégico para as organizações, passando a ter um papel de destaque na tomada de decisão para atingir seus objetivos estratégicos.
 
+Assim, a TI deixou de ser tratada por técnicos e passou a ser incorporada na estratégia da empresa para alcançar seus objetivos, garantindo que a TI sustente as estratégias e objetivos do negócio.
+
 Antes da popularização da tecnologia da informação, não havia necessidade realizar o gerenciamento dos serviços de TI, porém a partir dos anos 80, os serviços de TI passaram a ocupar um espaço mais relevante nas organizações, fazendo-se necessário um controle mais organizado dos serviços.
 
 ### O que é ITIL?

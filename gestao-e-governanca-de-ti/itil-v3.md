@@ -28,9 +28,7 @@ Ao pé da letra, **ITIL** é um acrônimo para _**Information Technology Infrast
 
 ![Os cinco principais livros da ITIL](../.gitbook/assets/livros-da-itil.jpg)
 
-ITIL é um conjunto de publicações das melhores práticas para gerenciamento de serviços de TI, de propriedade da AXELOS. É, também, o framework mundialmente mais utilizado para gerenciamento de serviços de TI.
-
-ITIL é um framework público que descreve as melhores práticas para gerenciamento de serviços de tecnologia da informação \(TI\). ITIL é um acrônimo de _**Information Technology Infrastructure Library**_.
+ITIL é um conjunto de publicações das melhores práticas para gerenciamento de serviços de TI, de propriedade da **AXELOS**. É, também, o framework mundialmente mais utilizado para gerenciamento de serviços de TI.
 
 > **ITIL** é um conjunto de práticas detalhadas para gerenciamento de serviços de TI que se concentra no alinhamento de serviços de TI com as necessidades dos negócios.
 >
@@ -38,7 +36,7 @@ ITIL é um framework público que descreve as melhores práticas para gerenciame
 >
 > Dessa forma, os processos ITIL oferecem indicações de melhores práticas para empresas de diferentes portes, devendo cada organização respeitar as suas especificidades, uma vez que em empresas menores os setores são mais enxutos e contam com menos recursos que os mesmos setores de grandes companhias.
 
-Como o próprio nome sugere, a ITIL é uma biblioteca composta por 5 livros, que são eles: **Service Strategy**, **Service Design**, **Service Transition**, **Service Operation** e **Continual Service Improvement**.
+
 
 > A ITIL prega que não exista uma separação clara entre a área de TI e o negócio. A publicação afirma que a integração da TI aos negócios faz com que a área de TI se torne uma parceira estratégica. As decisões sobre os investimentos em TI são tratadas nas reuniões de planejamento estratégico pelo conselho administrativo da empresa. Assim, a TI deixou de ser tratada por técnicos e passou a ser incorporada na estratégia da empresa para alcançar seus objetivos, garantindo que a TI sustente as estratégias e objetivos do negócio.
 >
@@ -58,6 +56,7 @@ A **ITIL** está organizada em 26 processos e 4 funções distribuídos em 5 est
 ✅ Outras definições de ITIL:
 
 * É uma biblioteca composta por um conjunto de 5 livros
+* É um framework público
 * É um padrão aberto que se tornou de domínio público
 * É um modelo/abordagem para gestão de serviços de TI
 * É um modelo de gestão orientada à processos

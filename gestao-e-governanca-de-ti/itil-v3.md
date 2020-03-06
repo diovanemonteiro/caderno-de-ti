@@ -8,13 +8,23 @@ description: >-
 
 ## Introdução
 
-> Antes da popularização da Tecnologia da Informação, não havia necessidade realizar o gerenciamento dos serviços de TI, já que eram esparsos e ocasionais. A partir dos anos 80, os serviços de TI passaram a ocupar um espaço mais relevante nas instituições, fazendo-se necessário um controle mais organizado dos serviços. Neste momento, o governo britânico iniciou a publicação de vários livros, contendo as práticas que ele julgava mais importantes para o gerenciamento dos serviços de TI. Esta coletânea de 40 livros foi denominada **IT Infrastructure Library \(ITIL\)**.
+Por muito tempo, a tecnologia da informação foi considerada um mero setor de suporte administrativo às organizações, um centro de custo que a princípio não gerava qualquer retorno para o negócio. A TI das organizações desempenhava funções meramente operacionais, como por exemplo, realizar manutenção da impressora, trocar o cartucho, instalar um novo software, formatar um computador e etc.
 
-Por muito tempo, a tecnologia da informação foi considerada um mero setor de suporte às organizações, a princípio não gerava qualquer retorno para o negócio. Antigamente a TI das organizações desempenhavam funções operacionais, por exemplo, formatar um computador, realizar manutenção da impressora, trocar o cartucho, instalar um novo software e etc.
+Com a evolução das tecnologias o setor de TI se tornou cada vez mais complexo e estratégico para as organizações, passando a ter um papel de destaque na tomada de decisão para atingir seus objetivos estratégicos.
 
-Com a evolução das tecnologias o setor de TI se tornou cada vez mais complexo e estratégico para as organizações, passando a ter um papel de destaque na tomada de decisão dos gestores das organizações.
+Antes da popularização da tecnologia da informação, não havia necessidade realizar o gerenciamento dos serviços de TI, porém a partir dos anos 80, os serviços de TI passaram a ocupar um espaço mais relevante nas organizações, fazendo-se necessário um controle mais organizado dos serviços.
 
-Antigamente a área de TI era apenas um setor de apoio para as organizações alcançar seus objetivos de negócio. Com a evolução das tecnologias o setor de TI se tornou mais complexo e estratégico para as organizações. precisaram se adaptar e a TI se tornou elemento primordial para os objetivos de negócio da organização.
+### O que é ITIL?
+
+Ao pé da letra, **ITIL** é um acrônimo para _**Information Technology Infrastructure Library**_. Como o próprio nome sugere, uma biblioteca de Infraestrutura de Tecnologia da Informação composta por uma série de 5 livros:
+
+* Estratégia de Serviço \(Service Strategy\), 
+* Desenho de Serviço \(Service Design\), 
+* Transição de Serviço \(Service Transition\),
+* Operação de Serviço \(Service Operation\) e 
+* Melhoria Contínua de Serviço \(Continual Service Improvement\).
+
+
 
 ITIL é um framework público que descreve as melhores práticas para gerenciamento de serviços de tecnologia da informação \(TI\). ITIL é um acrônimo de _**Information Technology Infrastructure Library**_.
 

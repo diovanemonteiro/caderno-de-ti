@@ -20,11 +20,11 @@ Antes da popularização da tecnologia da informação, não havia necessidade r
 
 Ao pé da letra, **ITIL** é um acrônimo para _**Information Technology Infrastructure Library**_. Como o próprio nome sugere, uma biblioteca de Infraestrutura de Tecnologia da Informação composta por uma série de 5 livros:
 
-* Estratégia de Serviço \(Service Strategy\), 
-* Desenho de Serviço \(Service Design\), 
-* Transição de Serviço \(Service Transition\),
-* Operação de Serviço \(Service Operation\) e 
-* Melhoria Contínua de Serviço \(Continual Service Improvement\).
+* Estratégia de Serviço \(Service Strategy\)
+* Desenho de Serviço \(Service Design\)
+* Transição de Serviço \(Service Transition\)
+* Operação de Serviço \(Service Operation\)
+* Melhoria Contínua de Serviço \(Continual Service Improvement\)
 
 ![Os cinco principais livros da ITIL](../.gitbook/assets/livros-da-itil.jpg)
 

@@ -30,6 +30,14 @@ Ao pé da letra, **ITIL** é um acrônimo para _**Information Technology Infrast
 
 ITIL é um conjunto de publicações das melhores práticas para gerenciamento de serviços de TI, de propriedade da **AXELOS**. É, também, o framework mundialmente mais utilizado para gerenciamento de serviços de TI.
 
+ITIL não é uma norma que tenha que ser seguida a risca, mas sim um guia de práticas que podem ser adotadas e adaptadas a organização conforme necessidade.
+
+Além das cinco publicações principais, a ITIL oferece outras muitas publicações chamadas de conteúdo complementar.
+
+Conjuntos complementares de publicações com orientações específicas para setores da indústria, tipos de organização, modelos operacionais e arquiteturas de tecnologia, são abundantes.
+
+A última versão foi designada como ITIL Foundation, pois agora esse framework foi além de apenas um acrônimo, é uma marca, se tornando parceira dos negócios.
+
 > **ITIL** é um conjunto de práticas detalhadas para gerenciamento de serviços de TI que se concentra no alinhamento de serviços de TI com as necessidades dos negócios.
 >
 > A ITIL descreve processos, procedimentos, tarefas e listas de verificação **que não são específicos da organização nem específicos da tecnologia**, mas podem ser aplicados por uma organização para estabelecer a integração com a estratégia da organização, entregando valor e mantendo um nível mínimo de competência.
@@ -67,7 +75,8 @@ A **ITIL** está organizada em 26 processos e 4 funções distribuídos em 5 est
 {% hint style="danger" %}
 ❌ ITIL não é:
 
-* Não é uma metodologia, nem norma ISO
+* ITIL **não é modelo prescritivo**, ou seja, **não é uma metodologia**
+* Também não é uma norma ISO
 * Não é uma ferramenta que devemos instalar ou implementar
 * Não especifica procedimentos, nem é um passo a passo
 * Não é estático, pode ser adaptado para cada organização
@@ -76,7 +85,7 @@ A **ITIL** está organizada em 26 processos e 4 funções distribuídos em 5 est
 
 ### Histórico da ITIL
 
-A ITIL foi desenvolvida pelo CCTA _\(Central Computer Telecommunications Agency\)_ no final da década de 80, a partir de uma solicitação do governo britânico, que não estava satisfeito com o nível de qualidade dos serviços a ele prestado.
+A ITIL foi desenvolvida pelo CCTA _**\(Central Computer Telecommunications Agency\)**_ ****no final da década de 80, a partir de uma solicitação do governo britânico, que não estava satisfeito com o nível de qualidade dos serviços a ele prestado.
 
 Em abril de 2001, o CCTA foi incorporado ao OGC _\(Office of Government Commerce\)_, que na época era o órgão responsável evolução da ITIL.
 
@@ -357,7 +366,7 @@ No desenho de serviço são feitas as especificações técnicas dos serviços d
 
 ### 4 Ps do desenho
 
-Assim como na estratégia de serviços aqui no desenho de serviço também temos a definição dos 4 Ps, mas aqui eles estão mais focados no contexto técnico.
+Assim como na estratégia de serviços aqui no desenho de serviço também temos a definição dos 4 Ps, mas aqui eles estão mais focados no contexto técnico. Os 4P’s são os pilares necessários para que os objetivos do gerenciamento de serviços de TI possam ser alcançados.
 
 * **Pessoas:** habilidade e competências necessárias para prover os serviços.
 * **Produtos:** tecnologias necessárias para entregar os serviços.

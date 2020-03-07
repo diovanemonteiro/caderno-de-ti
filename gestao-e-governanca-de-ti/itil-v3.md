@@ -123,7 +123,7 @@ O Gerenciamento de Serviços é um conjunto de ****capacidades organizacionais p
 O Gerenciamento de Serviços é um conjunto de capacidades organizacionais especializadas para fornecer valor aos clientes na forma de Serviços. **Essas “capacidades organizacionais especializadas” incluem os processos, métodos, funções, papéis e atividades** que um **provedor de serviços** usa para permitir que eles prestem serviços a seus clientes.
 {% endhint %}
 
-## Ciclo de Vida do Serviço
+## Estrutura do Ciclo de Vida
 
 > O núcleo da ITIL v3 é constituído de cinco publicações: estratégia; desenho; transição; operação; melhoria contínua. Cada uma dessas publicações é relacionada a um estágio do ciclo de vida do serviço, com orientações para uma abordagem integrada de gerenciamento de serviços.
 >

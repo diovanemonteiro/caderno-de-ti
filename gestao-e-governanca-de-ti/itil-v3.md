@@ -137,7 +137,7 @@ Um serviço nasce, se desenvolve, entra em operação e pode ser descontinuado. 
 
 A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em estágios pelos quais o serviço passará desde a sua concepção até seu encerramento.
 
-O ciclo de vida de serviços contém 5 estágios, conforme mostra a figura abaixo.
+O ciclo de vida de serviços contém 5 estágios. A **Estratégia do Serviço** é o núcleo que norteia os demais estágios, e a **Melhoria Contínua de Serviço** é o estágio que envolve todo o ciclo, uma vez que todos os processos podem ser aperfeiçoados. Veja na figura abaixo.
 
 ![Vis&#xE3;o geral do modelo](../.gitbook/assets/screenshot_2020-02-18-kindle-cloud-reader.png)
 

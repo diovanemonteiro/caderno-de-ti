@@ -336,6 +336,8 @@ A **Análise SWOT** - é uma ferramenta de planejamento estratégico usada para 
 
 #### Gerenciamento de Portfólio
 
+O portfólio de serviço é conjunto completo de serviços que é gerenciado por um provedor de serviço. O portfólio de serviço é usado para gerenciar o ciclo de vida inteiro de todos os serviços de TI, incluindo três categorias: funil de serviço \(proposto ou em desenvolvimento\); catálogo de serviço \(em produção ou disponível para implantação\) e serviços obsoletos.
+
 #### Gerenciamento de Demanda
 
 #### Gerenciamento Financeiro
@@ -494,12 +496,20 @@ Resumidamente os processos de Transição do Serviço da ITIL v3, apresentados p
 
 A ITIL faz distinção entre três tipos diferentes de mudança:
 
-* Mudança padrão: alterações pré-autorizadas e de baixo risco que seguem um procedimento conhecido.
-* Mudança de emergência: alterações que devem ser implementadas imediatamente, por exemplo, para resolver um incidente grave.
-* Mudança normais: todas as outras alterações que não são alterações padrão ou mudanças de emergência.
+* **Mudança padrão:** alterações pré-autorizadas e de baixo risco que seguem um procedimento conhecido.
+* **Mudança de emergência:** alterações que devem ser implementadas imediatamente, por exemplo, para resolver um incidente grave.
+* **Mudança normais:** todas as outras alterações que não são alterações padrão ou mudanças de emergência.
 
 As Mudança Normais são frequentemente categorizadas como _Major, Significant or Minor_, dependendo do nível de risco envolvido. As organizações devem definir, em suas políticas de mudança, esses tipos de mudanças e as autoridades que devem ser envolvidas em cada uma destas . As mudanças podem exigir, por exemplo, reuniões regulares com o _**CAB \(Change Advisory Board\)**_ com o objetivo de que estas tenham o adequado tratamento.
 {% endhint %}
+
+**Mudanças Técnicas**: Mudanças que possam impactar componentes de TI, porém não alteram os serviços. Geralmente, são mudanças necessárias para compoentes de TI.  
+  
+**Mudanças Operacionais**: Mudanças que possam impactar serviços operacionais da empresa. São relacionadas à serviços e devem ser originadas nos ciclos Desenho de Serviço e/ou Melhoria Continuada de Serviços.  
+  
+**Mudanças Táticas**: Mudanças que possam impactar os serviços que atentedem atividades comerciais da organização. Estão originadas no ciclo de Estratégia de Serviços.  
+  
+**Mudanças Estratégicas**: Mudanças que possam impactar serviços estratégicos da organização. Geralmente são serviços que, em caso de falha, causam perdas financeiras, implicações legais ou danos à imagem da empresa.
 
 ## Operação de Serviço
 

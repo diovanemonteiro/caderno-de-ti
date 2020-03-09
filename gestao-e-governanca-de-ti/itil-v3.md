@@ -32,12 +32,6 @@ ITIL é um conjunto de publicações das melhores práticas para gerenciamento d
 
 ITIL **não é uma norma** que tenha que ser seguida a risca, mas sim um guia de práticas que podem ser **adotadas** e **adaptadas** a organização conforme necessidade.
 
-Além das cinco publicações principais, a ITIL oferece outras muitas publicações chamadas de conteúdo complementar.
-
-Conjuntos complementares de publicações com orientações específicas para setores da indústria, tipos de organização, modelos operacionais e arquiteturas de tecnologia, são abundantes.
-
-A última versão foi designada como ITIL Foundation, pois agora esse framework foi além de apenas um acrônimo, é uma marca, se tornando parceira dos negócios.
-
 > **ITIL** é um conjunto de práticas detalhadas para gerenciamento de serviços de TI que se concentra no alinhamento de serviços de TI com as necessidades dos negócios.
 >
 > A ITIL descreve processos, procedimentos, tarefas e listas de verificação **que não são específicos da organização nem específicos da tecnologia**, mas podem ser aplicados por uma organização para estabelecer a integração com a estratégia da organização, entregando valor e mantendo um nível mínimo de competência.

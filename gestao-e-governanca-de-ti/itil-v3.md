@@ -123,7 +123,11 @@ O Gerenciamento de Serviços é um conjunto de ****capacidades organizacionais p
 O Gerenciamento de Serviços é um conjunto de capacidades organizacionais especializadas para fornecer valor aos clientes na forma de Serviços. **Essas “capacidades organizacionais especializadas” incluem os processos, métodos, funções, papéis e atividades** que um **provedor de serviços** usa para permitir que eles prestem serviços a seus clientes.
 {% endhint %}
 
-## Ciclo de Vida do Serviço
+### Processos
+
+### Papéis
+
+## Ciclo de Vida
 
 Um serviço nasce, se desenvolve, entra em operação e pode ser descontinuado. É necessário gerenciar o serviço durante todo o seu ciclo de vida, desde a sua concepção até sua retirada de operação.
 

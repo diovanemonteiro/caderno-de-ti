@@ -91,7 +91,7 @@ Em julho de 2011 foi publicada uma atualização da ITIL V3, que ficou conhecida
 
 ### Serviços
 
-De acordo com a ITIL, serviço é um meio de fornecer valor a clientes, facilitando a obtenção de resultados que eles desejam, sem que tenham que arcar com a propriedade de determinados custos e riscos.
+De acordo com a ITIL, serviço é um meio de fornecer valor aos clientes, facilitando a obtenção de resultados que eles desejam, sem que tenham que arcar com a propriedade de determinados custos e riscos.
 
 > _Na ITIL, o conceito de serviço de TI diz respeito a um ou mais sistemas de TI que habilitam os processos de negócio da organização._
 >

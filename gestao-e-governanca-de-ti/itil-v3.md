@@ -129,7 +129,7 @@ O **núcleo** da ITIL v3 é constituído de **5 publicações** principais, send
 
 A **Estratégia do Serviço** é o núcleo que **norteia** os demais estágios, e a **Melhoria Contínua de Serviço** é o estágio que **envolve** todo o ciclo, uma vez que todos os processos podem ser aperfeiçoados. Veja na figura abaixo.
 
-![](../.gitbook/assets/screenshot_2020-02-18-kindle-cloud-reader.png)
+![Ciclo de Vida da ITIL](../.gitbook/assets/screenshot_2020-02-18-kindle-cloud-reader.png)
 
 Vejamos a definição de cada uma das publicações que compõem a ITIL v3:
 

@@ -135,15 +135,7 @@ O **núcleo** da ITIL v3 é constituído de **5 publicações**, sendo cada uma 
 
 A **Estratégia do Serviço** é o núcleo que norteia os demais estágios, e a **Melhoria Contínua de Serviço** é o estágio que envolve todo o ciclo, uma vez que todos os processos podem ser aperfeiçoados. Veja na figura abaixo.
 
-![Vis&#xE3;o geral do modelo](../.gitbook/assets/screenshot_2020-02-18-kindle-cloud-reader.png)
-
-> O núcleo da ITIL v3 é constituído de cinco publicações: estratégia; desenho; transição; operação; melhoria contínua. Cada uma dessas publicações é relacionada a um estágio do ciclo de vida do serviço, com orientações para uma abordagem integrada de gerenciamento de serviços.
->
-> O núcleo da ITIL v3 é constituído de cinco publicações, sendo cada uma delas relacionada a um estágio do ciclo de vida do serviço, com orientações para uma abordagem integrada de gerenciamento de serviços.
->
-> Cada parte do ciclo de vida de serviço exerce influência sobre as demais e conta com entradas e realimentações entre si. Desta maneira, um conjunto constante de controle e equilíbrio, através do ciclo de vida de serviço, assegura que quando a demanda de negócio muda, os serviços podem ser adaptados, respondendo de forma eficiente.
->
-> Vejamos a definição de cada uma das publicações que compõem a ITIL v3:
+Vejamos a definição de cada uma das publicações que compõem a ITIL v3:
 
 São características básicas dos 5 estágios do ciclo de vida do serviço:
 

@@ -125,6 +125,16 @@ O Gerenciamento de Serviços é um conjunto de capacidades organizacionais espec
 
 ## Ciclo de Vida do Serviço
 
+Um serviço nasce, se desenvolve, entra em operação e pode ser descontinuado. É necessário gerenciar o serviço durante todo o seu ciclo de vida, desde a sua concepção até sua retirada de operação.
+
+A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em estágios pelos quais o serviço passará desde a sua concepção até seu encerramento.
+
+O **núcleo** da ITIL v3 é constituído de **cinco publicações**, sendo cada uma delas relacionada a um estágio do ciclo de vida do serviço, com orientações para uma abordagem integrada de gerenciamento de serviços. Cada parte do ciclo de vida de serviço exerce influência sobre as demais e conta com entradas e realimentações entre si.
+
+O ciclo de vida de serviços contém 5 estágios. A **Estratégia do Serviço** é o núcleo que norteia os demais estágios, e a **Melhoria Contínua de Serviço** é o estágio que envolve todo o ciclo, uma vez que todos os processos podem ser aperfeiçoados. Veja na figura abaixo.
+
+![Vis&#xE3;o geral do modelo](../.gitbook/assets/screenshot_2020-02-18-kindle-cloud-reader.png)
+
 > O núcleo da ITIL v3 é constituído de cinco publicações: estratégia; desenho; transição; operação; melhoria contínua. Cada uma dessas publicações é relacionada a um estágio do ciclo de vida do serviço, com orientações para uma abordagem integrada de gerenciamento de serviços.
 >
 > O núcleo da ITIL v3 é constituído de cinco publicações, sendo cada uma delas relacionada a um estágio do ciclo de vida do serviço, com orientações para uma abordagem integrada de gerenciamento de serviços.
@@ -132,14 +142,6 @@ O Gerenciamento de Serviços é um conjunto de capacidades organizacionais espec
 > Cada parte do ciclo de vida de serviço exerce influência sobre as demais e conta com entradas e realimentações entre si. Desta maneira, um conjunto constante de controle e equilíbrio, através do ciclo de vida de serviço, assegura que quando a demanda de negócio muda, os serviços podem ser adaptados, respondendo de forma eficiente.
 >
 > Vejamos a definição de cada uma das publicações que compõem a ITIL v3:
-
-Um serviço nasce, se desenvolve, entra em operação e pode ser descontinuado. É necessário gerenciar o serviço durante todo o seu ciclo de vida, desde a sua concepção até sua retirada de operação.
-
-A ITIL trabalha com o conceito de ciclo de vida do serviço que se traduz em estágios pelos quais o serviço passará desde a sua concepção até seu encerramento.
-
-O ciclo de vida de serviços contém 5 estágios. A **Estratégia do Serviço** é o núcleo que norteia os demais estágios, e a **Melhoria Contínua de Serviço** é o estágio que envolve todo o ciclo, uma vez que todos os processos podem ser aperfeiçoados. Veja na figura abaixo.
-
-![Vis&#xE3;o geral do modelo](../.gitbook/assets/screenshot_2020-02-18-kindle-cloud-reader.png)
 
 São características básicas dos 5 estágios do ciclo de vida do serviço:
 

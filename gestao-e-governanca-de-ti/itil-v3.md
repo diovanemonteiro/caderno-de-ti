@@ -30,7 +30,7 @@ Ao pé da letra, **ITIL** é um acrônimo para _**Information Technology Infrast
 
 ITIL é um conjunto de publicações das melhores práticas para gerenciamento de serviços de TI, de propriedade da **AXELOS**. É, também, o framework mundialmente mais utilizado para gerenciamento de serviços de TI.
 
-ITIL não é uma norma que tenha que ser seguida a risca, mas sim um guia de práticas que podem ser adotadas e adaptadas a organização conforme necessidade.
+ITIL **não é uma norma** que tenha que ser seguida a risca, mas sim um guia de práticas que podem ser **adotadas** e **adaptadas** a organização conforme necessidade.
 
 Além das cinco publicações principais, a ITIL oferece outras muitas publicações chamadas de conteúdo complementar.
 

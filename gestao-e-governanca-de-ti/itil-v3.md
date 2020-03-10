@@ -85,7 +85,7 @@ De acordo com a ITIL, um **serviço** é um meio de fornecer **valor** aos clien
 
 O Gerenciamento de Serviços é um conjunto especializado de **capacidades organizacionais** para fornecer valor para o cliente em forma de serviços.
 
-As **capacidades organizacionais** especializadas incluem os **processos, métodos, funções, papéis e ativididades** que um provedor de serviços usa para permitir que eles prestem serviços a seus clientes.
+Essas **capacidades organizacionais** especializadas incluem os **processos, métodos, funções, papéis e ativididades** que um provedor de serviços usa para permitir que eles prestem serviços a seus clientes.
 
 ### Processos
 
@@ -122,7 +122,7 @@ São características básicas dos 5 estágios do ciclo de vida do serviço:
 
 ## Processos e Funções
 
-Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios do ciclo de vida, conforme tabela a seguir:
+Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios do ciclo de vida, veja o resumo na tabela a seguir:
 
 <table>
   <thead>

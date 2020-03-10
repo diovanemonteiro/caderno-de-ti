@@ -79,19 +79,13 @@ Em julho de 2011 foi publicada uma atualização da ITIL V3, que ficou conhecida
 
 ### Serviços
 
-De acordo com a ITIL, um **serviço** é um meio de fornecer valor aos clientes, facilitando a obtenção de resultados que eles desejam, sem que eles tenham que arcar com a propriedade de determinados **custos** e **riscos**.
+De acordo com a ITIL, um **serviço** é um meio de fornecer **valor** aos clientes, facilitando a obtenção de resultados que eles desejam, sem que eles tenham que arcar com a propriedade de determinados **custos** e **riscos**.
 
 ### Gerenciamento de Serviços
 
-O Gerenciamento de Serviços é um conjunto de **capacidades organizacionais** \(processos, métodos de trabalho, funções, papéis e atividades\) para fornecer valor para o cliente em forma de serviços.
+O Gerenciamento de Serviços é um conjunto especializado de **capacidades organizacionais** \(processos, métodos de trabalho, funções, papéis e atividades\) para fornecer valor para o cliente em forma de serviços.
 
-{% hint style="warning" %}
-\*\*\*\*⭐**Caiu na prova!**
-
-**Gerenciamento de serviços** é o que **permite um provedor de serviços** para entender os serviços que estão fornecendo, para **garantir que os serviços realmente facilitam os resultados que seus clientes desejam alcançar**, para entender o valor dos serviços para seus clientes e entender e gerenciar todos os custos e riscos associados a esses serviços.
-
-O Gerenciamento de Serviços é um conjunto de capacidades organizacionais especializadas para fornecer valor aos clientes na forma de Serviços. **Essas “capacidades organizacionais especializadas” incluem os processos, métodos, funções, papéis e atividades** que um **provedor de serviços** usa para permitir que eles prestem serviços a seus clientes.
-{% endhint %}
+As **capacidades organizacionais** especializadas incluem os **processos, métodos, funções, papéis e ativididades** que um provedor de serviços usa para permitir que eles prestem serviços a seus clientes.
 
 ### Processos
 

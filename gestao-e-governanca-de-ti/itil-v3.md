@@ -251,8 +251,10 @@ Nesse estágio, busca-se responder algumas perguntas:
 
 É o grau em que as expectativas do cliente são atingidas, e pode ser definido em função de duas variáveis:
 
-* **Utilidade:** capacidade de atender às necessidades dos clientes e de minimizar as suas restrições.
-* **Garantia:** está relacionada ao atendimento dos requisitos de disponibilidade, capacidade, continuidade e segurança estabelecido pelos clientes.
+* **Utilidade:** adequado ao **propósito**. É a capacidade de atender às necessidades dos clientes e de minimizar as suas restrições.
+* **Garantia:** adequado ao **uso**. Está relacionada ao atendimento dos requisitos de disponibilidade, capacidade, continuidade e segurança estabelecido pelos clientes.
+
+![Valor do servi&#xE7;o](../.gitbook/assets/utilidadexgarantia.png)
 
 ### Tipos de provedores de serviço
 

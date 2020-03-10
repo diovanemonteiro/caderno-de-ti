@@ -125,10 +125,10 @@ O Gerenciamento de Serviços é um conjunto de capacidades organizacionais espec
 
 O papel é um conjunto de responsabilidades e autoridades concedido a uma pessoa ou grupo de pessoas em determinados processos. A ITIL prevê os seguintes papéis:
 
-* Dono de serviço
-* Dono de processo
-* Gerente de processo
-* Profissional de processo
+* **Dono de serviço:** responsável pela iniciação, transição, manutenção e suporte de um serviço.
+* **Dono de processo:** assegura que o processo seja executado conforme acordado e documentado. Patrocina o processo. Normalmente alguém da gerência sênior de TI.
+* **Gerente de processo:** é quem gerencia o processo no dia a dia. Em organizações pequenas, também é o dono do processo.
+* **Profissional de processo:** nome dado a quem participa da realização de alguma atividade dentro de um processo. Por exemplo, um analista de suporte é um Profissional de Processo no gerenciamento de incidente
 
 ## Ciclo de Vida
 

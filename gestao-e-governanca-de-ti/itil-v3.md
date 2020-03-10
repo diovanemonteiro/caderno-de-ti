@@ -12,7 +12,7 @@ Por muito tempo, a tecnologia da informação foi considerada um mero setor de s
 
 Com a evolução das tecnologias o setor de TI se tornou cada vez mais complexo e estratégico para as organizações, passando a ter um papel de destaque na tomada de decisão para atingir seus objetivos estratégicos.
 
-Assim, a TI deixou de ser tratada por técnicos e passou a ser incorporada na estratégia da empresa para alcançar seus objetivos, garantindo que a TI sustente as estratégias e objetivos do negócio. A TI é responsável pelo sucesso da organização.
+Assim, a TI deixou de ser tratada por técnicos e passou a ser incorporada na estratégia da empresa para alcançar seus objetivos, garantindo que a TI sustente as estratégias e objetivos do negócio. A TI passou a ser a responsável pelo sucesso da organização.
 
 Antes da popularização da tecnologia da informação, não havia necessidade realizar o gerenciamento dos serviços de TI, porém a partir dos anos 80, os serviços de TI passaram a ocupar um espaço mais relevante nas organizações, fazendo-se necessário um controle mais organizado dos serviços.
 
@@ -31,18 +31,6 @@ Ao pé da letra, **ITIL** é um acrônimo para _**Information Technology Infrast
 ITIL é um conjunto de publicações das melhores práticas para gerenciamento de serviços de TI, de propriedade da **AXELOS**. É, também, o framework mundialmente mais utilizado para gerenciamento de serviços de TI.
 
 ITIL **não é uma norma** que tenha que ser seguida a risca, mas sim um guia de práticas que podem ser **adotadas** e **adaptadas** a organização conforme necessidade.
-
-> **ITIL** é um conjunto de práticas detalhadas para gerenciamento de serviços de TI que se concentra no alinhamento de serviços de TI com as necessidades dos negócios.
->
-> A ITIL descreve processos, procedimentos, tarefas e listas de verificação **que não são específicos da organização nem específicos da tecnologia**, mas podem ser aplicados por uma organização para estabelecer a integração com a estratégia da organização, entregando valor e mantendo um nível mínimo de competência.
->
-> Dessa forma, os processos ITIL oferecem indicações de melhores práticas para empresas de diferentes portes, devendo cada organização respeitar as suas especificidades, uma vez que em empresas menores os setores são mais enxutos e contam com menos recursos que os mesmos setores de grandes companhias.
-
-
-
-> A ITIL prega que não exista uma separação clara entre a área de TI e o negócio. A publicação afirma que a integração da TI aos negócios faz com que a área de TI se torne uma parceira estratégica. As decisões sobre os investimentos em TI são tratadas nas reuniões de planejamento estratégico pelo conselho administrativo da empresa. Assim, a TI deixou de ser tratada por técnicos e passou a ser incorporada na estratégia da empresa para alcançar seus objetivos, garantindo que a TI sustente as estratégias e objetivos do negócio.
->
-> Na ITIL v3, há um **alinhamento entre a área de TI e o negócio**, o que facilita o processo de gerenciamento de serviços de TI.
 
 {% hint style="info" %}
 \*\*\*\*👁**Para ficar de olho!**
@@ -91,23 +79,11 @@ Em julho de 2011 foi publicada uma atualização da ITIL V3, que ficou conhecida
 
 ### Serviços
 
-De acordo com a ITIL, serviço é um meio de fornecer valor aos clientes, facilitando a obtenção de resultados que eles desejam, sem que tenham que arcar com a propriedade de determinados custos e riscos.
-
-> _Na ITIL, o conceito de serviço de TI diz respeito a um ou mais sistemas de TI que habilitam os processos de negócio da organização._
->
-> Um serviço de TI é composto de tecnologia da informação, pessoas e processos; e é fornecido por um provedor de serviço de TI. Os serviços de TI voltados para o cliente suportam diretamente os processos de negócio.
->
-> Um **serviço** é um meio de entregar valor aos clientes, facilitando os resultados que os clientes querem alcançar, sem ter que assumir custos e riscos específicos.
+De acordo com a ITIL, um **serviço** é um meio de fornecer valor aos clientes, facilitando a obtenção de resultados que eles desejam, sem que eles tenham que arcar com a propriedade de determinados **custos** e **riscos**.
 
 ### Gerenciamento de Serviços
 
 O Gerenciamento de Serviços é um conjunto de **capacidades organizacionais** \(processos, métodos de trabalho, funções, papéis e atividades\) para fornecer valor para o cliente em forma de serviços.
-
-{% hint style="info" %}
-**Definição**: Gerenciamento de Serviços
-
-O Gerenciamento de Serviços é um conjunto de ****capacidades organizacionais para fornecer valor para o cliente em forma de serviços.
-{% endhint %}
 
 {% hint style="warning" %}
 \*\*\*\*⭐**Caiu na prova!**

@@ -18,7 +18,7 @@ Antes da popularização da tecnologia da informação, não havia necessidade r
 
 ### O que é ITIL?
 
-Ao pé da letra, **ITIL** é um acrônimo para _**Information Technology Infrastructure Library**_. Como o próprio nome sugere, uma biblioteca de Infraestrutura de Tecnologia da Informação composta por uma série de 5 livros:
+Ao pé da letra, **ITIL** é um acrônimo para _**Information Technology Infrastructure Library**_. Como o próprio nome sugere, uma biblioteca de Infraestrutura de Tecnologia da Informação. É composta por uma série de 5 livros, são eles:
 
 * Estratégia de Serviço \(Service Strategy\)
 * Desenho de Serviço \(Service Design\)
@@ -67,7 +67,7 @@ A **ITIL** está organizada em 26 processos e 4 funções distribuídos em 5 est
 {% endhint %}
 
 {% hint style="danger" %}
-❌ ITIL não é:
+❌ A ITIL não é:
 
 * ITIL **não é modelo prescritivo**, ou seja, **não é uma metodologia**
 * Também não é uma norma ISO

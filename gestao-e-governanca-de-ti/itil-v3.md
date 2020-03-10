@@ -119,7 +119,16 @@ O Gerenciamento de Serviços é um conjunto de capacidades organizacionais espec
 
 ### Processos
 
+É  o conjunto de atividades coordenadas com o objetivo de produzir uma saída, com a criação de valor para um cliente ou parte interessada. A ITIL preconiza que um processo deve produzir **resultados específicos**, ser **orientado ao cliente**, ser **mensurável** e **responder a eventos específicos**. Os processos compõem o ciclo de vida do serviço.
+
 ### Papéis
+
+O papel é um conjunto de responsabilidades e autoridades concedido a uma pessoa ou grupo de pessoas em determinados processos. A ITIL prevê os seguintes papéis:
+
+* Dono de serviço
+* Dono de processo
+* Gerente de processo
+* Profissional de processo
 
 ## Ciclo de Vida
 

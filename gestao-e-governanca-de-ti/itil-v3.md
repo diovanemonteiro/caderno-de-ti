@@ -246,6 +246,8 @@ Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios
   </tbody>
 </table>## Estratégia de Serviços
 
+O estágio estratégia de serviços orienta as políticas e os processos de gerenciamento de serviços a serem implementados como ativos estratégicos no ciclo de vida do serviço.
+
 > Orienta sobre como as políticas e processos de gerenciamento de serviço podem ser desenhadas, desenvolvidas e implementada como ativos estratégicos ao longo do ciclo de vida de serviço. Entre os tópicos abordados nesta publicação, estão os ativos de serviço, o catálogo de serviços, gerenciamento financeiro, gerenciamento do portfólio de serviços, desenvolvimento organizacional, riscos estratégicos etc.
 >
 > A Estratégia de Serviço busca **garantir que as organizações estejam em posição de lidar com custos e riscos associados a seus Portfólios de Serviços** e que estejam preparadas para a efetividade operacional e, indo além, para um desempenho diferenciado. As decisões tomadas na Estratégia de Serviço têm consequências de longo alcance, inclusive aquelas de efeito tardio.
@@ -261,7 +263,7 @@ Nesse estágio, busca-se responder algumas perguntas:
 
 ### Os  4 Ps  da estratégia
 
-* **Perspectiva**: define a visão da organização, missão, valores e convicções.
+* **Perspectiva**: é a visão da organização, missão, valores e convicções.
 * **Posição**: a imagem que a organização pretende passar para os clientes, ou seja, como o mercado enxerga a organização.
 * **Plano**: traduz a estratégia para ações.
 * **Padrão**: descreve as características essenciais dos serviços.

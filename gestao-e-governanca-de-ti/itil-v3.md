@@ -18,7 +18,7 @@ Antes da popularização da tecnologia da informação, não havia necessidade r
 
 ### O que é ITIL?
 
-Ao pé da letra, **ITIL** é um acrônimo para _**Information Technology Infrastructure Library**_. Como o próprio nome sugere, uma biblioteca de Infraestrutura de Tecnologia da Informação. É composta por uma série de 5 livros, são eles:
+Ao pé da letra, **ITIL** é um acrônimo para _**Information Technology Infrastructure Library**_. Como o próprio nome diz, é uma biblioteca de Infraestrutura de Tecnologia da Informação. É composta por uma série de 5 livros, onde cada um representa uma fase do ciclo de vida do serviço:
 
 * Estratégia de Serviço \(Service Strategy\)
 * Desenho de Serviço \(Service Design\)
@@ -28,7 +28,7 @@ Ao pé da letra, **ITIL** é um acrônimo para _**Information Technology Infrast
 
 ![Os cinco principais livros da ITIL](../.gitbook/assets/livros-da-itil.jpg)
 
-ITIL é um conjunto de publicações das melhores práticas para gerenciamento de serviços de TI, de propriedade da **AXELOS**. É, também, o framework mundialmente mais utilizado para gerenciamento de serviços de TI.
+É um conjunto de publicações que apresenta melhores práticas para gerenciamento de serviços de TI, de propriedade da **AXELOS**. É considerado o framework mais adotado no Brasil e no mundo para gerenciamento de serviços de TI.
 
 ITIL **não é uma norma** que tenha que ser seguida a risca, mas sim um guia de práticas que podem ser **adotadas** e **adaptadas** a organização conforme necessidade.
 

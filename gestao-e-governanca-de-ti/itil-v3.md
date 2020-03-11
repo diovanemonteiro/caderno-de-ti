@@ -93,6 +93,8 @@ Essas **capacidades organizacionais** especializadas incluem os **processos, mé
 
 ### Funções
 
+Um conjunto de **pessoas e recursos** empregados para realizar um ou mais processos ou atividades. Vários departamentos podem exercer uma função, assim como uma pessoa ou grupo podem exercer várias funções
+
 ### Papéis
 
 O papel é um conjunto de responsabilidades e autoridades concedido a uma pessoa ou grupo de pessoas em determinados processos. A ITIL prevê os seguintes papéis:
@@ -252,6 +254,8 @@ Nesse estágio, busca-se responder algumas perguntas:
 
 ### Valor do serviço
 
+Para a ITIL, o valor do serviço é medido pela combinação de **utilidade** + **garantia** do serviço.
+
 É o grau em que as expectativas do cliente são atingidas, e pode ser definido em função de duas variáveis:
 
 * **Utilidade:** adequado ao **propósito**. É a capacidade de atender às necessidades dos clientes e de minimizar as suas restrições.
@@ -269,12 +273,7 @@ Os tipos de provedores são classificados em 3 tipos:
 
 ### Ativos estratégicos
 
-**Recursos** e **habilidades** são considerados ativos de serviço de uma organização e são a base para a criação de valor para o serviço.
-
-* **Habilidades**: aptidão da organização para executar atividades. São ativos intangíveis.
-* **Recursos**: Infraestrutura, pessoas, dinheiro ou qualquer outra coisa que possa ajudar na entrega de serviços de TI.
-
-Resumo das habilidades e recursos na tabela a seguir:
+O provedor de serviços cria valor para os seus serviços por meio dos **ativos de serviço**. Eles podem ser:
 
 | **Habilidades** | **Recursos** |
 | :--- | :--- |
@@ -283,6 +282,11 @@ Resumo das habilidades e recursos na tabela a seguir:
 | Processos | Aplicações |
 | Organização | Infraestrutura |
 | Gerenciamento | Capital Financeiro |
+
+**Recursos** e **habilidades** são considerados ativos de serviço de uma organização e são a base para a criação de valor para o serviço.
+
+* **Habilidades**: aptidão da organização para executar atividades. São ativos intangíveis.
+* **Recursos**: Infraestrutura, pessoas, dinheiro ou qualquer outra coisa que possa ajudar na entrega de serviços de TI.
 
 {% hint style="success" %}
 \*\*\*\*🧠 **Mnemônico!**

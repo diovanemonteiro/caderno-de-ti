@@ -91,6 +91,8 @@ Essas **capacidades organizacionais** especializadas incluem os **processos, mé
 
 É  o conjunto de atividades coordenadas com o objetivo de produzir uma saída, com a criação de valor para um cliente ou parte interessada. A ITIL preconiza que um processo deve produzir **resultados específicos**, ser **orientado ao cliente**, ser **mensurável** e **responder a eventos específicos**. Os processos compõem o ciclo de vida do serviço.
 
+### Funções
+
 ### Papéis
 
 O papel é um conjunto de responsabilidades e autoridades concedido a uma pessoa ou grupo de pessoas em determinados processos. A ITIL prevê os seguintes papéis:
@@ -159,7 +161,8 @@ Os processos e funções da ITIL encontram-se distribuídos entre os 5 estágios
       <td style="text-align:left">
         <p></p>
         <ol>
-          <li>Coordena&#xE7;&#xE3;o do Desenho</li>
+          <li><a href="itil-v3.md#coordenacao-do-desenho">Coordena&#xE7;&#xE3;o do Desenho</a>
+          </li>
           <li>Gerenciamento de Cat&#xE1;logo de Servi&#xE7;o</li>
           <li>Gerenciamento de N&#xED;vel de Servi&#xE7;o</li>
           <li>Gerenciamento de Capacidade</li>
@@ -311,7 +314,15 @@ A **Análise SWOT** - é uma ferramenta de planejamento estratégico usada para 
 
 #### Gerenciamento de Portfólio
 
+O processo de gerenciamento de portfólio de serviço é responsável por gerenciar o portfólio de serviços durante todo o ciclo de vida de um serviço, focando no valor que os serviços entregam ao negócio.
+
 O portfólio de serviço é conjunto completo de serviços que é gerenciado por um provedor de serviço. O portfólio de serviço é usado para gerenciar o ciclo de vida inteiro de todos os serviços de TI, incluindo três categorias: funil de serviço \(proposto ou em desenvolvimento\); catálogo de serviço \(em produção ou disponível para implantação\) e serviços obsoletos.
+
+O portfólio de serviço está dividido em três partes:
+
+1. **Funil de serviços**, ou _**pipeline de serviços**_, que mostra o que está em fila para ser desenvolvido \(serviços propostos ou em desenvolvimento\);
+2. **Catálogo de Serviços**, que mostra os serviços que estão em operação ou disponível para implantação;
+3. **Serviços Obsoletos**, que mostra os serviços que devem ser aposentados e os que estão fora de operação.
 
 #### Gerenciamento de Demanda
 

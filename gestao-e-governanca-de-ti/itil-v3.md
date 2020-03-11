@@ -486,7 +486,25 @@ As Mudança Normais são frequentemente categorizadas como _Major, Significant o
   
 **Mudanças Estratégicas**: Mudanças que possam impactar serviços estratégicos da organização. Geralmente são serviços que, em caso de falha, causam perdas financeiras, implicações legais ou danos à imagem da empresa.
 
+#### Gerenciamento de Configuração e Ativo de Serviço
+
+Esse processo é responsável, dentre outros, por:
+
+* identificar, **controlar,** registrar, auditar e verificar **ativos de serviço e itens de configuração**, incluindo versões, linhas de base, componentes constituintes, atributos e **relacionamentos.**
+* gerenciar e proteger a integridade dos ativos de serviço e itens de configuração ao longo de todo ciclo de vida do serviço, garantindo que somente componentes autorizados sejam usados e que apenas mudanças autorizadas sejam realizadas.
+* estabelecer e manter um acurado e completo **Sistema de Gerenciamento de Configuração**.
+
+#### Avaliação das Mudanças
+
+É **responsável pela avaliação formal de um serviço de TI** novo ou alterado para garantir que os riscos tenham sido gerenciados e para **ajudar a determinar se a mudança deve ser autorizada**.
+
+Além disso trata da avaliação da relevância do desenho do serviço, da abordagem de transição e da adequação do serviço novo ou alterado aos ambientes operacionais e de negócios.
+
 ## Operação de Serviço
+
+A **Operação de Serviços** é o único estágio que, além de possuir processos, **possui funções**. Elas são quatro, a saber: **Central de Serviço**, Gerenciamento Técnico, Gerenciamento de Aplicações e Gerenciamento das Operações de TI.  
+  
+A **Central de Serviços** é uma unidade funcional composta por uma equipe e recursos, **cujo objetivo é ser um ponto focal de contato dos usuários quando ocorre uma interrupção do serviço**, para receber requisições de serviço ou mesmo lidar com algumas categorias de Requisição de Mudança. Sim, é o famoso service desk.
 
 > Descreve a fase do ciclo de vida do gerenciamento de serviços que é responsável pelas atividades do dia a dia, orientando sobre como garantir a entrega e o suporte a serviços de forma eficiente e eficaz e detalhando os processos de gerenciamento de eventos, incidentes, problemas, acesso e de execução de requisições.
 

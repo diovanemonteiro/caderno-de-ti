@@ -422,6 +422,8 @@ Este processo atua em 2 níveis de tratamento:
 * **Serviceability:** é a habilidade de um fornecedor em atender os termos de seu contrato. É a medida de quão efetivamente os fornecedores terceirizados entregam seus serviços conforme acordado contratualmente.  
 {% endhint %}
 
+![](../.gitbook/assets/tempo-medio-entre-incidentes.jpg)
+
 #### Gerenciamento de Continuidade
 
 > **Este processo é responsável pelo gerenciamento de risco que podem impactar seriamente o negócio**. O gerenciamento de continuidade de negócio protege as conveniências das principais partes interessadas, reputação, marca e atividades de criação de valor. O processo envolve a redução de riscos a um nível aceitável e planejamento para a recuperação de processos de negócio caso ocorra uma interrupção ao negócio. O gerenciamento de continuidade de negócio define objetivos, escopo e requisitos para o gerenciamento de continuidade de serviço de TI.

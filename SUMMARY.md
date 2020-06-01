@@ -14,9 +14,12 @@
 
 ## Desenvolvimento de Software
 
-* [DevOps](desenvolvimento-de-software/devops.md)
-
 ## Banco de Dados
 
 * [Untitled](banco-de-dados/untitled.md)
+
+## DevOps e Infraestrutura <a id="infraestrutura-e-devops"></a>
+
+* [DevOps](infraestrutura-e-devops/devops.md)
+* [Docker](infraestrutura-e-devops/docker.md)
 

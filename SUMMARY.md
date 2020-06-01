@@ -4,7 +4,7 @@
 
 ## Engenharia de Software
 
-* [Untitled](engenharia-de-software/untitled.md)
+* [Engenharia de Requisitos](engenharia-de-software/untitled.md)
 
 ## Gestão e Governança de TI
 
@@ -22,4 +22,5 @@
 
 * [DevOps](infraestrutura-e-devops/devops.md)
 * [Docker](infraestrutura-e-devops/docker.md)
+* [Nginx](infraestrutura-e-devops/nginx.md)
 

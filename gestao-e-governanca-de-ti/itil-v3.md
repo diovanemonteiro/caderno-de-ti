@@ -249,6 +249,8 @@ Nesse estágio, busca-se responder algumas perguntas:
 
 ### Os  4 Ps  da estratégia
 
+![4 P&apos;s da estrat&#xE9;gia](../.gitbook/assets/4ps-estrategia.jpg)
+
 * **Perspectiva**: é o direcionamento, visão estratégica da organização sobre o mercado, missão, valores e convicções.
 * **Posição**: a imagem que a organização pretende passar para os clientes, ou seja, como o mercado enxerga a organização.
 * **Plano**: traduz a estratégia para ações.
